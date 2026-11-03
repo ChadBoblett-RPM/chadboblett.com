@@ -27,3 +27,4 @@ m.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{m.querySelect
    list.querySelectorAll('.media-group').forEach(g=>g.hidden=!(b.dataset.type==='all'||g.dataset.type===b.dataset.type));});
  });
 })();
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&b.getAttribute('aria-expanded')==='true'){m.querySelector('ul').classList.remove('open');b.setAttribute('aria-expanded','false');b.focus();}});
