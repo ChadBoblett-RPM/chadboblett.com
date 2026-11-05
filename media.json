@@ -1,954 +1,1522 @@
 [
- {
-  "title": "Facebook Group Chases Best-Paying Loads",
-  "outlet": "Class A Drivers",
-  "type": "article",
-  "date": "2014-06-11",
-  "url": "https://www.classadrivers.com/trucking-news/detail/facebook-group-chases-best-paying-loads",
-  "summary": "Early story on Boblett's comeback as an owner-operator and his new Rate Per Mile Masters group (about 1,400 members)."
- },
- {
-  "title": "Rates, lanes on Labor Day weekend and beyond: A new resource",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2014-08-30",
-  "url": "https://www.overdriveonline.com/channel-19/article/14886958/rates-lanes-on-labor-day-weekend-and-beyond-a-new-resource",
-  "summary": "Introduces the Rate Per Mile Masters Facebook group as a new rates-and-lanes resource for owner-operators."
- },
- {
-  "title": "Riding the spot market boom",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2014-10-01",
-  "url": "https://www.overdriveonline.com/business/article/14887158/riding-the-spot-market-boom",
-  "summary": "Overdrive feature on spot-market owner-operators during the 2014 boom that features Boblett."
- },
- {
-  "title": "Getting the best rates: Two approaches",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2014-10-03",
-  "url": "https://www.overdriveonline.com/business/article/14887160/getting-the-best-rates-two-approaches",
-  "summary": "Compares two owner-operator approaches to securing top rates, including Boblett's spot-market strategy."
- },
- {
-  "title": "Chad Boblett trucks up from nothing",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2014-10-22",
-  "url": "https://www.overdriveonline.com/channel-19/article/14887274/chad-boblett-trucks-up-from-nothing",
-  "summary": "Todd Dills profiles how Boblett started his one-truck business in 2011 after losing nearly everything to an injury."
- },
- {
-  "title": "Uber-for-freight finds its footing",
-  "outlet": "FleetOwner",
-  "type": "article",
-  "date": "2015-07-29",
-  "url": "https://www.fleetowner.com/technology/article/21691347/uber-for-freight-finds-its-footing",
-  "summary": "Cristina Commendatore on app-based freight matching, with Boblett explaining why he still relies on traditional load boards."
- },
- {
-  "title": "Diesel Average Tumbles Below $2 for First Time Since February 2005",
-  "outlet": "Transport Topics",
-  "type": "article",
-  "date": "2016-02-22",
-  "url": "https://www.ttnews.com/articles/diesel-average-tumbles-below-2-first-time-february-2005",
-  "summary": "Roger Gilroy quotes Boblett on cheap fuel: \"How about we ask for 10 cents more a mile, too?\""
- },
- {
-  "title": "DAT to Hold First User Conference for Brokers",
-  "outlet": "DAT (press release)",
-  "type": "article",
-  "date": "2016-06-16",
-  "url": "https://www.dat.com/company/news-events/news-releases/dat-to-hold-first-user-conference-for-brokers",
-  "summary": "DAT names Boblett, founder of RPM Masters, as keynote speaker at its first user conference, Oct. 17-19, 2016 in Portland, Ore."
- },
- {
-  "title": "New Carrier Onboarding Software: Fast, Accurate, 100% Mobile",
-  "outlet": "DAT Blog",
-  "type": "article",
-  "date": "2016-11-14",
-  "url": "https://www.dat.com/blog/new-carrier-onboarding-software-fast-accurate-100-mobile",
-  "summary": "DAT product news quoting Boblett, founder of the then 8,500-member Rate Per Mile Masters, on the pain of broker setup."
- },
- {
-  "title": "Lexington KY I-64",
-  "outlet": "YouTube (@ChadBoblett)",
-  "type": "video",
-  "date": "2017-01-07",
-  "url": "https://www.youtube.com/watch?v=NpUkQJpn13o",
-  "summary": "Boblett's first YouTube video, a drive on I-64 in Lexington."
- },
- {
-  "title": "Rate Per Mile Masters founder Chad Boblett from MATS: How broker relationships saved him during recent downturn",
-  "outlet": "Overdrive Radio",
-  "type": "podcast",
-  "date": "2017-03-27",
-  "url": "https://www.overdriveonline.com/overdrive-radio/podcast/14892097/rate-per-mile-masters-founder-chad-boblett-from-mats-how-broker-relationships-saved-him-during-recent-downturn",
-  "summary": "Podcast recorded at MATS 2017 on Boblett's shift to steady broker-lane relationships, recorded at the DAT booth."
- },
- {
-  "title": "3PLs Tout Technology as Tool to Build Relationships in Supply Chain",
-  "outlet": "Transport Topics",
-  "type": "article",
-  "date": "2017-04-11",
-  "url": "https://www.ttnews.com/articles/3pls-tout-technology-tool-build-relationships-supply-chain",
-  "summary": "Ari Ashe quotes Boblett on why broker reviews and days-to-pay matter more to him than a credit score."
- },
- {
-  "title": "4 Ways to Find a Great Load",
-  "outlet": "DAT Blog",
-  "type": "article",
-  "date": "2017-04-19",
-  "url": "https://www.dat.com/blog/4-ways-to-find-a-great-load",
-  "summary": "DAT blog post by Boblett with tips for finding good loads."
- },
- {
-  "title": "Do the 3 O'Clock Hustle",
-  "outlet": "YouTube (@ChadBoblett)",
-  "type": "video",
-  "date": "2017-05-17",
-  "url": "https://www.youtube.com/watch?v=Axr7mUQieMM",
-  "summary": "Boblett's own video explaining his 3 o'clock hustle and inviting viewers to Rate Per Mile Masters."
- },
- {
-  "title": "Posting Trucks and the 80/20 Rule",
-  "outlet": "DAT Blog",
-  "type": "article",
-  "date": "2017-06-27",
-  "url": "https://www.dat.com/blog/posting-trucks-and-the-80-20-rule",
-  "summary": "DAT blog post by Boblett on why owner-operators should post their trucks."
- },
- {
-  "title": "Research broker histories before taking load from new source",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2017-08-10",
-  "url": "https://www.overdriveonline.com/business/article/14892861/research-broker-histories-before-taking-load-from-new-source",
-  "summary": "Matt Cole on vetting brokers, with Boblett on how load-board reviews saved him from bad loads."
- },
- {
-  "title": "Spot Market Skyrockets in Aftermath of Hurricane Harvey",
-  "outlet": "Transport Topics",
-  "type": "article",
-  "date": "2017-09-07",
-  "url": "https://www.ttnews.com/articles/spot-market-skyrockets-aftermath-hurricane-harvey",
-  "summary": "Ari Ashe cites relief-load rates Boblett posted to Rate Per Mile Masters (then nearly 14,000 members)."
- },
- {
-  "title": "Diesel Climbs Again, Rises 2.3¢ to $2.996 a Gallon",
-  "outlet": "Transport Topics",
-  "type": "article",
-  "date": "2018-01-08",
-  "url": "https://www.ttnews.com/articles/diesel-climbs-again-rises-23c-2996-gallon",
-  "summary": "Quotes Boblett on how confusing fuel surcharges can be for owner-operators and shippers."
- },
- {
-  "title": "Freight Broker",
-  "outlet": "FleetOwner",
-  "type": "article",
-  "date": "2018-01-19",
-  "url": "https://www.fleetowner.com/for-the-driver/article/21185592/freight-broker",
-  "summary": "Sean Kilcarr on Boblett's rules for building strong owner-operator and broker relationships."
- },
- {
-  "title": "RPM Masters: How a Facebook community is changing the game for truckers",
-  "outlet": "FreightWaves",
-  "type": "article",
-  "date": "2018-01-20",
-  "url": "https://www.freightwaves.com/news/2018-1-20-rpm-masters-how-a-facebook-community-is-changing-the-game-for-truckers",
-  "summary": "FreightWaves profile of Rate Per Mile Masters, then over 18,000 members, with Boblett quotes on broker accountability."
- },
- {
-  "title": "As detention mounts, drivers still searching for a solution",
-  "outlet": "FreightWaves",
-  "type": "article",
-  "date": "2018-02-20",
-  "url": "https://www.freightwaves.com/news/cash-flow-corner-driver-detention",
-  "summary": "Cites Boblett's DAT blog advice on negotiating detention pay with brokers."
- },
- {
-  "title": "Post Your Truck to Find Better-Paying Loads",
-  "outlet": "Truckers Choice Industry News",
-  "type": "article",
-  "date": "2018-02-23",
-  "url": "https://news.truckerschoice.com/post-your-truck-to-find-better-paying-loads/",
-  "summary": "Boblett's article on posting your truck to get better-paying loads (first posted Feb. 22, 2018)."
- },
- {
-  "title": "Highway robbery: More warning signs in negotiations with brokers",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2018-03-08",
-  "url": "https://www.overdriveonline.com/business/article/14893970/highway-robbery-more-warning-signs-in-negotiations-with-brokers",
-  "summary": "Todd Dills: Boblett on undercounted mileage, \"load is ready now\" work-ins and double brokering."
- },
- {
-  "title": "Highway robbery: A clouded transparency",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2018-03-09",
-  "url": "https://www.overdriveonline.com/business/article/14893971/highway-robbery-a-clouded-transparency",
-  "summary": "Todd Dills: Boblett on negotiating truck-ordered-not-used (TONU) pay and detention up front."
- },
- {
-  "title": "Getting Your Carrier Authority - Myth and Reality",
-  "outlet": "DAT Blog",
-  "type": "article",
-  "date": "2018-03-15",
-  "url": "https://www.dat.com/blog/getting-your-carrier-authority-myth-and-reality",
-  "summary": "DAT blog post by Boblett on the myths and realities of getting your own operating authority."
- },
- {
-  "title": "LoadHack: How to Use Load In/Load Out to Maximize Loads/Rates (From MATS 2018)",
-  "outlet": "RPM QuickPay",
-  "type": "video",
-  "date": "2018-03-29",
-  "url": "https://www.rpmquickpay.com/2018/03/29/loadhack-how-to-use-load-in-load-out-to-maximize-loads-rates-from-mats-2018/",
-  "summary": "Boblett at MATS 2018 showing owner-operators how to use DAT's load board load in/load out data."
- },
- {
-  "title": "Fuel Advances – Broker vs. Factoring Company",
-  "outlet": "RPM QuickPay",
-  "type": "article",
-  "date": "2018-05-07",
-  "url": "https://www.rpmquickpay.com/2018/05/07/fuel-advances-broker-vs-factoring-company/",
-  "summary": "Boblett's post comparing broker fuel advances with factoring-company advances."
- },
- {
-  "title": "The little guys speak: how will technology help our businesses?",
-  "outlet": "FreightWaves",
-  "type": "article",
-  "date": "2018-05-26",
-  "url": "https://www.freightwaves.com/news/transport-technology-smaller-carriers",
-  "summary": "John Kingston's recap of the Transparency18 small-carrier panel, quoting Boblett on smarter load boards."
- },
- {
-  "title": "What Does it Cost to Run Your Trucking Company?",
-  "outlet": "DAT Blog",
-  "type": "article",
-  "date": "2018-05-30",
-  "url": "https://www.dat.com/blog/what-does-it-cost-to-run-your-trucking-company-2",
-  "summary": "DAT blog post by Boblett breaking down fixed and variable trucking costs."
- },
- {
-  "title": "Cutting Motor Carrier Costs, One Line Item at a Time",
-  "outlet": "Truckers Choice Industry News",
-  "type": "article",
-  "date": "2018-07-10",
-  "url": "https://news.truckerschoice.com/cutting-motor-carrier-costs-one-line-item-at-a-time/",
-  "summary": "Boblett's article on trimming a carrier's costs line by line."
- },
- {
-  "title": "How Brokers and Carriers Can Avoid Getting Scammed",
-  "outlet": "RPM QuickPay",
-  "type": "article",
-  "date": "2018-07-23",
-  "url": "https://www.rpmquickpay.com/2018/07/23/how-brokers-and-carriers-can-avoid-getting-scammed/",
-  "summary": "Boblett's post on spotting and stopping freight scams."
- },
- {
-  "title": "When should you replace your truck?",
-  "outlet": "Truckers Choice Industry News",
-  "type": "article",
-  "date": "2018-08-23",
-  "url": "https://news.truckerschoice.com/when-should-you-replace-your-truck/",
-  "summary": "Boblett's article on planning a truck replacement before a breakdown forces it (first posted Jul. 11, 2018)."
- },
- {
-  "title": "'Rock Your Rate': Making the most of the freight spot market",
-  "outlet": "Overdrive (YouTube)",
-  "type": "video",
-  "date": "2018-09-25",
-  "url": "https://www.youtube.com/watch?v=T8_cN2hrg28",
-  "summary": "Video of Boblett's spot-market primer at GATS 2018."
- },
- {
-  "title": "'Rock your rate': Using spot market demand data to advantage",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2018-09-26",
-  "url": "https://www.overdriveonline.com/channel-19/article/14895122/chad-boblett-talks-growth-in-spot-market-rates",
-  "summary": "Overdrive article and video of Boblett's spot-market talk at the DAT booth at the 2018 Great American Trucking Show."
- },
- {
-  "title": "4 ways truckers can get more time at home",
-  "outlet": "Truckers Choice Industry News",
-  "type": "article",
-  "date": "2018-10-11",
-  "url": "https://news.truckerschoice.com/4-ways-truckers-can-get-more-time-at-home/",
-  "summary": "Boblett's article on getting more home time (first posted Aug. 15, 2018)."
- },
- {
-  "title": "Transparency18: How is Technology Affecting and Enabling the Micro-Carrier? (Part 1)",
-  "outlet": "You Drive U / TWA (YouTube)",
-  "type": "talk",
-  "date": "2018-10-24",
-  "url": "https://www.youtube.com/watch?v=4PXFQK1VXXI",
-  "summary": "Panel at Transparency18 in Atlanta (May 2018) with Boblett, Kenny Long, Pete Emahiser and OOIDA's Rod Nofziger on tech and small carriers."
- },
- {
-  "title": "Transparency18: How is Technology Affecting and Enabling the Micro-Carrier? (Part 2)",
-  "outlet": "You Drive U / TWA (YouTube)",
-  "type": "talk",
-  "date": "2018-10-24",
-  "url": "https://www.youtube.com/watch?v=3gDKBg89tWA",
-  "summary": "Second half of the Transparency18 micro-carrier technology panel featuring Boblett."
- },
- {
-  "title": "An owner-operator shares his advice for choosing the right loads",
-  "outlet": "Uber Freight (YouTube)",
-  "type": "video",
-  "date": "2018-11-05",
-  "url": "https://www.youtube.com/watch?v=mB2cUcWgXU0",
-  "summary": "Uber Freight video of Boblett sharing advice on choosing loads."
- },
- {
-  "title": "4 lessons the Marines taught me about owning a business",
-  "outlet": "Truckers Choice Industry News",
-  "type": "article",
-  "date": "2018-12-21",
-  "url": "https://news.truckerschoice.com/4-lessons-the-marines-taught-me-about-owning-a-business/",
-  "summary": "Boblett on what the Marine Corps taught him about running a trucking business (first posted Dec. 6, 2018)."
- },
- {
-  "title": "Truckers reveal in a new survey who they hate shipping for the most",
-  "outlet": "Business Insider",
-  "type": "article",
-  "date": "2018-12-30",
-  "url": "https://www.businessinsider.com/truck-drivers-kroger-bad-survey-2018-12",
-  "summary": "Rachel Premack quotes Boblett on why big grocery receivers are the hardest customers."
- },
- {
-  "title": "6 rules for making money in the slow season",
-  "outlet": "DAT Blog",
-  "type": "article",
-  "date": "2018-12-31",
-  "url": "https://www.dat.com/blog/6-rules-for-making-money-in-the-slow-season",
-  "summary": "DAT blog post by Boblett with his six rules for the winter slow season."
- },
- {
-  "title": "Partial loads: A slow season secret weapon?",
-  "outlet": "DAT Blog",
-  "type": "article",
-  "date": "2019-02-06",
-  "url": "https://www.dat.com/blog/partial-loads-a-slow-season-secret-weapon",
-  "summary": "DAT blog post by Boblett on combining partial loads in slow markets."
- },
- {
-  "title": "Pros and cons: Brokered vs. direct shipper freight",
-  "outlet": "DAT Blog",
-  "type": "article",
-  "date": "2019-03-08",
-  "url": "https://www.dat.com/blog/pros-and-cons-brokered-vs-direct-shipper-freight",
-  "summary": "DAT blog post by Boblett weighing brokered freight against direct shipper freight."
- },
- {
-  "title": "Why pick a fight with the air? And: Downtime for the spot market 3 o'clock hustle",
-  "outlet": "Overdrive Radio",
-  "type": "podcast",
-  "date": "2019-03-29",
-  "url": "https://www.overdriveonline.com/overdrive-radio/podcast/14896085/why-pick-a-fight-with-the-air-and-downtime-for-the-spot-market-3-oclock-hustle",
-  "summary": "MATS 2019 podcast where Boblett explains his '3 o'clock hustle' for better spot rates."
- },
- {
-  "title": "Truck Show Tips: Highlights from MATS 2019",
-  "outlet": "DAT Freight & Analytics (YouTube)",
-  "type": "video",
-  "date": "2019-04-16",
-  "url": "https://www.youtube.com/watch?v=E_IL8NboKSU",
-  "summary": "Boblett tours some of his favorite booths at MATS 2019 for DAT."
- },
- {
-  "title": "Rates hack: The spot market 3 o’clock hustle",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2019-05-02",
-  "url": "https://www.overdriveonline.com/voices/article/14896278/rates-hack-the-spot-market-3-oclock-hustle",
-  "summary": "Todd Dills writes up Boblett's 3 o'clock hustle for naming your rate late in the broker's day."
- },
- {
-  "title": "Truckers warn of a 'bloodbath' as trucking companies go bankrupt and slash profit expectations",
-  "outlet": "Business Insider",
-  "type": "article",
-  "date": "2019-06-19",
-  "url": "https://www.businessinsider.com/truckers-warn-bloodbath-companies-bankrupt-lower-expectations-2019-6",
-  "summary": "Rachel Premack's story built on Boblett's description of 2019 as a \"bloodbath\" for truckers."
- },
- {
-  "title": "Truckers say Amazon's new logistics empire is being underpinned by low, 'ridiculous' rates — and some are refusing to work with them",
-  "outlet": "Business Insider",
-  "type": "article",
-  "date": "2019-06-22",
-  "url": "https://www.businessinsider.com/amazon-truckers-low-rates-no-work-2019-6",
-  "summary": "Quotes Boblett: \"We cannot continue driving shipping costs down.\""
- },
- {
-  "title": "Do the 3 O'Clock Hustle",
-  "outlet": "YouTube (Rate Per Mile Masters)",
-  "type": "video",
-  "date": "2019-08-17",
-  "url": "https://www.youtube.com/watch?v=t2X_OOJohWs",
-  "summary": "Rate Per Mile Masters channel upload of the 3 o'clock hustle video."
- },
- {
-  "title": "A freight windfall hints that the trucking 'bloodbath' may let up",
-  "outlet": "Business Insider",
-  "type": "article",
-  "date": "2019-08-24",
-  "url": "https://www.businessinsider.com/trucking-bloodbath-freight-volume-boost-2019-8",
-  "summary": "Cites Boblett's \"bloodbath\" description of the 2019 freight market."
- },
- {
-  "title": "How to Spot Good Loads in Bad Markets",
-  "outlet": "ExpressTruckTax Blog",
-  "type": "article",
-  "date": "2019-09-03",
-  "url": "https://www.expresstrucktax.com/blog/how-to-spot-good-loads-in-bad-markets/",
-  "summary": "Repost of Boblett's DAT article on finding good loads in a down market."
- },
- {
-  "title": "Uber Freight Opens HQ in Chicago With Expansive Plans",
-  "outlet": "Transport Topics",
-  "type": "article",
-  "date": "2019-09-09",
-  "url": "https://www.ttnews.com/articles/uber-freight-opens-hq-chicago-expansive-plans",
-  "summary": "Quotes Boblett's RPM Masters post (then almost 28,000 members) on owner-operators and app-based freight."
- },
- {
-  "title": "Around 5,100 truck drivers lost their jobs in August as the trucking 'bloodbath' rages on",
-  "outlet": "Business Insider",
-  "type": "article",
-  "date": "2019-09-10",
-  "url": "https://www.businessinsider.com/trucking-bloodbath-4500-truck-drivers-lost-jobs-in-august-2019-9",
-  "summary": "Opens with Boblett's description of 2019 as a \"bloodbath.\""
- },
- {
-  "title": "How 4 veterans found solace and success in trucking",
-  "outlet": "Uber Freight Blog",
-  "type": "article",
-  "date": "2019-11-08",
-  "url": "https://www.uberfreight.com/en-US/blog/military-veteran-truck-drivers",
-  "summary": "Uber Freight Veterans Day feature including Marine Corps veteran Boblett."
- },
- {
-  "title": "Convoy to Expand Services After $400 Million in New Funding",
-  "outlet": "Transport Topics",
-  "type": "article",
-  "date": "2019-11-19",
-  "url": "https://www.ttnews.com/articles/convoy-expand-services-after-400-million-new-funding",
-  "summary": "Roger Gilroy quotes Boblett's RPM Masters post (28,310 members) on digital brokers."
- },
- {
-  "title": "America's largest truck-engine manufacturer just announced 2,000 layoffs — and it's another sign of the trucking 'bloodbath' that's slamming the $800 billion industry",
-  "outlet": "Business Insider",
-  "type": "article",
-  "date": "2019-11-25",
-  "url": "https://www.businessinsider.com/cummins-confirms-2000-layoffs-at-truck-engine-manufacturer-trucking-downturn-2019-11",
-  "summary": "Says the data backs up Boblett's \"bloodbath\" claim."
- },
- {
-  "title": "An internal doc reveals Amazon is ditching the trucking industry's most common pay practice — and it's a brilliant maneuver that could give the e-commerce giant a massive advantage",
-  "outlet": "Business Insider",
-  "type": "article",
-  "date": "2019-11-26",
-  "url": "https://www.businessinsider.com/amazon-truck-drivers-pay-hourly-per-mile-2019-11",
-  "summary": "Boblett on Amazon's per-day pay for truckers: \"I love the creativity of it.\""
- },
- {
-  "title": "Thousands of truck drivers have lost their jobs in 2019 as the transportation 'bloodbath' unfolds. Here's the list of the biggest bankrupt trucking companies.",
-  "outlet": "Business Insider",
-  "type": "article",
-  "date": "2019-12-10",
-  "url": "https://www.businessinsider.com/trucking-companies-bankrupt-list-truckers-react-to-industry-bloodbath-2019-7",
-  "summary": "Quotes Boblett on how low rates had fallen in 2019."
- },
- {
-  "title": "Thousands of truck drivers lost their jobs in the 2019 trucking 'bloodbath.' Here's why the $800 billion industry dipped into a recession.",
-  "outlet": "Business Insider",
-  "type": "article",
-  "date": "2019-12-30",
-  "url": "https://www.businessinsider.com/why-trucking-industry-slowdown-trucker-job-loss-2019-7",
-  "summary": "Year-end look at the 2019 downturn, citing Boblett's \"bloodbath\" description."
- },
- {
-  "title": "New owner-operators: 7 ways to reduce your expenses",
-  "outlet": "Motive Blog",
-  "type": "article",
-  "date": "2020-01-14",
-  "url": "https://gomotive.com/blog/owner-operators-reduce-expenses/",
-  "summary": "Guest post by Boblett on cutting breakdowns, fuel, admin and violation costs."
- },
- {
-  "title": "Some truckers are slamming Amazon for an unusual driver support strategy as the megaretailer morphs into a trucking company",
-  "outlet": "Business Insider",
-  "type": "article",
-  "date": "2020-02-13",
-  "url": "https://www.businessinsider.com/amazon-outsources-some-trucker-support-drivers-say-its-dangerous-2020-2",
-  "summary": "Revisits Boblett's comments on Amazon's per-day pay model."
- },
- {
-  "title": "MATS hosts variety of seminars; FMCSA chief appears",
-  "outlet": "Truckers News",
-  "type": "article",
-  "date": "2020-02-14",
-  "url": "https://www.truckersnews.com/news/article/15062550/mats-hosts-variety-of-seminars-fmcsa-chief-appears",
-  "summary": "MATS 2020 seminar lineup listing Boblett's 'Going the Extra Mile from Driver to Carrier' (show later canceled for COVID-19)."
- },
- {
-  "title": "How I became an owner-operator and got my own authority",
-  "outlet": "Motive Blog",
-  "type": "article",
-  "date": "2020-03-02",
-  "url": "https://gomotive.com/blog/chad-boblett-became-owner-operator/",
-  "summary": "Boblett's first-person story: Marines, CDL school in 2006, injury, four credit cards, a $35,000 truck and his own authority."
- },
- {
-  "title": "How brokers, carriers can prevent business ID theft schemes",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2020-03-12",
-  "url": "https://www.overdriveonline.com/business/article/14897500/preventing-business-identity-theft-as-broker-and-carrier",
-  "summary": "Todd Dills: Boblett's \"two-call authentication\" for verifying a new broker, and RPM Masters' role in exposing scams."
- },
- {
-  "title": "Vetting a broker's credit before taking a truckload",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2020-03-17",
-  "url": "https://www.overdriveonline.com/business/article/14897528/vetting-a-brokers-credit-before-taking-a-truckload",
-  "summary": "Boblett on checking broker credit in the DAT directory and how RPM Masters helps expose scams."
- },
- {
-  "title": "Trucking spot markets are pricing in coronavirus infection rates",
-  "outlet": "FreightWaves",
-  "type": "article",
-  "date": "2020-03-19",
-  "url": "https://www.freightwaves.com/news/trucking-spot-markets-are-pricing-in-coronavirus-infection-rates",
-  "summary": "Cites Boblett's RPM Masters post on turning down a $4.18-a-mile load early in COVID-19."
- },
- {
-  "title": "Rock-bottom rates stir 're-regulation' debate",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2020-05-05",
-  "url": "https://www.overdriveonline.com/channel-19/article/14897707/rockbottom-rates-stir-reregulation-debate",
-  "summary": "Covers Boblett's idea of an emergency broker-margin ceiling and his RPM Masters member poll."
- },
- {
-  "title": "Comparing costs — and strategies to profit, ultimately",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2020-06-10",
-  "url": "https://www.overdriveonline.com/channel-19/article/14897814/profit-strategies-evaluating-fixed-and-variable-costs",
-  "summary": "Todd Dills on cost per mile, citing a fixed-vs-variable cost question Boblett raised in RPM Masters."
- },
- {
-  "title": "A freight time to be in shipping",
-  "outlet": "Marketplace",
-  "type": "article",
-  "date": "2020-12-21",
-  "url": "https://www.marketplace.org/story/2020/12/21/a-freight-time-to-be-in-shipping",
-  "summary": "Sabri Ben-Achour interviews Boblett on record pandemic-era freight demand."
- },
- {
-  "title": "Fireside chat with Chad Boblett, live from Lexington, Ky. (SmartHop tour kickoff)",
-  "outlet": "LinkedIn (Guillermo Garcia via Gianni Piccoletti)",
-  "type": "post",
-  "date": "2021-05-21",
-  "url": "https://www.linkedin.com/posts/gpiccoletti_fireside-chat-with-chad-boblett-activity-6801531449825660928-vLaL",
-  "summary": "Promo for SmartHop's May 26, 2021 live fireside chat with Boblett and Guillermo Garcia."
- },
- {
-  "title": "Creating a 30,000+ Facebook Group with Chad Boblett of Rate Per Mile Masters",
-  "outlet": "BulkLoads Podcast",
-  "type": "podcast",
-  "date": "2021-06-04",
-  "url": "https://www.bulkloads.com/tools/podcasts/the-mind-behind-creating-a-successful-facebook-group-with-chad-boblett-of-rate-per-mile-masters/",
-  "summary": "Podcast on how Boblett built Rate Per Mile Masters past 30,000 members."
- },
- {
-  "title": "CloudTrucks offers drivers Road to Independence",
-  "outlet": "FreightWaves",
-  "type": "article",
-  "date": "2021-06-15",
-  "url": "https://www.freightwaves.com/news/cloudtrucks-offers-drivers-road-to-independence",
-  "summary": "FreightWaves story on CloudTrucks quoting Boblett on what independent drivers need."
- },
- {
-  "title": "What Impacts a Trucker's Bottom Line?",
-  "outlet": "SmartHop (YouTube)",
-  "type": "video",
-  "date": "2021-10-20",
-  "url": "https://www.youtube.com/watch?v=HzetZPV2ZVw",
-  "summary": "SmartHop fireside chat with CEO Guillermo Garcia and Boblett on costs and insurance."
- },
- {
-  "title": "Ever wanted to be able to post your truck with a rate attached? Now you can",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2022-03-24",
-  "url": "https://www.overdriveonline.com/business/article/15290130/ever-wanted-to-be-able-to-post-your-truck-with-a-rate-attached-now-you-can",
-  "summary": "Boblett on DAT's new rate-on-truck-post feature: \"I have been asking for carriers to be able to post their rate for years.\""
- },
- {
-  "title": "DAT and FourKites Bring Real-time Supply Chain Visibility to North America's Largest Freight Marketplace",
-  "outlet": "DAT (press release)",
-  "type": "article",
-  "date": "2022-03-28",
-  "url": "https://www.dat.com/company/news-events/news-releases/dat-and-fourkites-bring-real-time-supply-chain-visibility-to-north-americas-largest-freight-marketplace",
-  "summary": "DAT announcement quoting Boblett, owner of Boblett Brothers Trucking, on why visibility matters."
- },
- {
-  "title": "Going the Extra Mile from Driver to Carrier",
-  "outlet": "MATS Pro Talks (YouTube)",
-  "type": "talk",
-  "date": "2022-04-15",
-  "url": "https://www.youtube.com/watch?v=VXlFia7KXMc",
-  "summary": "Boblett's MATS 2022 Pro Talk on moving from company driver to carrier with his own authority."
- },
- {
-  "title": "Negotiating from the Driver's Seat",
-  "outlet": "MATS Pro Talks / DAT (YouTube)",
-  "type": "talk",
-  "date": "2022-04-15",
-  "url": "https://www.youtube.com/watch?v=uXEFOQVAye4",
-  "summary": "MATS 2022 negotiation session presented by DAT's Robert Rouse and Boblett."
- },
- {
-  "title": "How to speak your freight broker's language with confidence",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2022-05-25",
-  "url": "https://www.overdriveonline.com/business/article/15292461/how-to-speak-your-freight-brokers-language-with-confidence",
-  "summary": "Overdrive coverage of the MATS 'Negotiating From the Driver's Seat' session, quoting Boblett on rate benchmarks."
- },
- {
-  "title": "DAT introduces the DAT One app, providing expanded mobile access to the industry’s largest load board",
-  "outlet": "DAT (press release)",
-  "type": "article",
-  "date": "2022-08-09",
-  "url": "https://www.dat.com/company/news-events/news-releases/dat-introduces-the-dat-one-app-providing-expanded-mobile-access-to-the-industrys-largest-load-board",
-  "summary": "DAT's DAT One app launch release, quoting Boblett."
- },
- {
-  "title": "New DAT app designed to help drivers find profitable loads",
-  "outlet": "The Trucker",
-  "type": "article",
-  "date": "2022-08-10",
-  "url": "https://www.thetrucker.com/trucking-news/equipment-tech/new-dat-app-designed-to-help-drivers-find-profitable-loads",
-  "summary": "Coverage of the DAT One app launch, quoting Boblett on booking loads without a laptop."
- },
- {
-  "title": "How to optimize your load board",
-  "outlet": "DAT Blog",
-  "type": "article",
-  "date": "2022-10-04",
-  "url": "https://www.dat.com/blog/how-to-optimize-your-load-board",
-  "summary": "DAT post featuring Boblett's advice on getting the most from a load board subscription."
- },
- {
-  "title": "Getting Paid in 2023 (Triumph panel at MATS)",
-  "outlet": "Triumph (LinkedIn)",
-  "type": "post",
-  "date": "2023-03-30",
-  "url": "https://www.linkedin.com/posts/triumphforcarriers_mats2023-activity-7047615464717340674-Eyuo",
-  "summary": "Triumph announcement of its MATS 2023 'Getting Paid in 2023' panel featuring Boblett."
- },
- {
-  "title": "Spot market evolves: 'Totally different world' for relationships",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2023-06-08",
-  "url": "https://www.overdriveonline.com/business/article/15540229/spot-market-evolves-totally-different-world-for-relationships",
-  "summary": "Boblett on pushing hard with brokers in soft markets and using DAT lane averages to negotiate."
- },
- {
-  "title": "In a tough spot market, strong relationships with those who feed you will pay off",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2023-06-08",
-  "url": "https://www.overdriveonline.com/business/article/15540181/brokershipper-relationships-pay-off-in-tough-spot-freight-market",
-  "summary": "Matt Cole: Boblett on building a broker relationship in three straight loads during a down market."
- },
- {
-  "title": "Surviving and Thriving in the Trucking Industry With Rate per Mile Masters!",
-  "outlet": "Pullsure / Get a Load of This (YouTube)",
-  "type": "podcast",
-  "date": "2023-09-22",
-  "url": "https://www.youtube.com/watch?v=oP2rNWONKKc",
-  "summary": "Interview with Cameron Pechia on Boblett's path from rock bottom to a successful owner-operator."
- },
- {
-  "title": "5 things to watch for at MATS: Beating fraud, sluggish markets",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2024-03-14",
-  "url": "https://www.overdriveonline.com/overdrive-extra/article/15666301/5-things-to-watch-for-at-mats-beating-fraud-sluggish-markets",
-  "summary": "MATS 2024 preview noting Boblett opening the Pro Talks series on the East Hall stage."
- },
- {
-  "title": "Market has bottomed out, trucking speakers agree",
-  "outlet": "Trucking Dive",
-  "type": "article",
-  "date": "2024-03-22",
-  "url": "https://www.truckingdive.com/news/market-bottom-out-trucking-speakers-MATS/711079/",
-  "summary": "David Taube's MATS 2024 report quoting Boblett on the spot market hitting bottom."
- },
- {
-  "title": "Tips to Stay Afloat in Tough Times Including the Use of Power Only - S1:EP6",
-  "outlet": "Reliance Partners (YouTube)",
-  "type": "podcast",
-  "date": "2024-03-28",
-  "url": "https://www.youtube.com/watch?v=ey7RbkBKxlo",
-  "summary": "Trucking & Safety Matters episode with Thom Albrecht on rates, power only, safety scores and authority."
- },
- {
-  "title": "Hauling Success: Insights from Rate Per Mile Masters",
-  "outlet": "MATS Pro Talks (YouTube)",
-  "type": "talk",
-  "date": "2024-04-09",
-  "url": "https://www.youtube.com/watch?v=oHvUpz0QWb4",
-  "summary": "MATS 2024 Rate Per Mile Masters talk on the spot market, authority, brokers and power only."
- },
- {
-  "title": "Chad Boblett's Owner-Operator Tips To Stay Afloat During Tough Times",
-  "outlet": "PodWheels",
-  "type": "podcast",
-  "date": "2024-04-17",
-  "url": "https://podwheels.com/chad-bobletts-owner-operator-tips-to-stay-afloat-during-tough-times/",
-  "summary": "PodWheels write-up of the Reliance Partners episode with Boblett."
- },
- {
-  "title": "4 things to know about the 2024 Small Fleet & Owner-Operator Summit",
-  "outlet": "FreightWaves",
-  "type": "article",
-  "date": "2024-04-23",
-  "url": "https://www.freightwaves.com/news/4-things-to-know-about-the-2024-small-fleet-owner-operator-summit",
-  "summary": "Preview of the virtual summit, including Boblett's fireside chat."
- },
- {
-  "title": "Trucking influencer shares business and health lessons",
-  "outlet": "FreightWaves",
-  "type": "article",
-  "date": "2024-04-24",
-  "url": "https://www.freightwaves.com/news/trucking-influencer-shares-business-and-health-lessons",
-  "summary": "Recap of Boblett's fireside chat on business and driver health at a FreightWaves summit."
- },
- {
-  "title": "Behind the Wheel: Expert Advice from an Owner-Operator with Chad Boblett",
-  "outlet": "FreightWaves (YouTube)",
-  "type": "talk",
-  "date": "2024-04-24",
-  "url": "https://www.youtube.com/watch?v=kevjXogm_ak",
-  "summary": "Video of Boblett's FreightWaves fireside chat."
- },
- {
-  "title": "FreightWaves Small Fleet & Owner-Operator Summit 2024 (agenda)",
-  "outlet": "FreightWaves Events",
-  "type": "talk",
-  "date": "2024-04-24",
-  "url": "https://live.freightwaves.com/small-fleet-owner-operator-summit-2024",
-  "summary": "Agenda listing Boblett's fireside chat 'Behind the Wheel: Expert Advice from an Owner-Operator' with Grace Sharkey."
- },
- {
-  "title": "How to Increase Your Trucking Income with Power Only",
-  "outlet": "Triumph Blog",
-  "type": "article",
-  "date": "2024-08-05",
-  "url": "https://www.triumph.io/blog/broker/how-to-increase-your-trucking-income-with-power-only/",
-  "summary": "Triumph interview with Boblett on using power-only freight to differentiate and grow income."
- },
- {
-  "title": "How truckers save money during a down market",
-  "outlet": "Triumph (YouTube)",
-  "type": "video",
-  "date": "2024-12-09",
-  "url": "https://www.youtube.com/watch?v=3tBgIoUHgoQ",
-  "summary": "Triumph video of Boblett's tips for saving money in a down market."
- },
- {
-  "title": "Top Tips for Truckers Needing to Save Money",
-  "outlet": "Triumph (YouTube)",
-  "type": "video",
-  "date": "2024-12-09",
-  "url": "https://www.youtube.com/watch?v=c1AMnDmhXwY",
-  "summary": "Triumph video of Boblett's money-saving tips for trucking company owners."
- },
- {
-  "title": "How to Survive a Freight Recession",
-  "outlet": "Triumph (YouTube)",
-  "type": "video",
-  "date": "2024-12-09",
-  "url": "https://www.youtube.com/watch?v=1RBDx-AmXVo",
-  "summary": "Triumph video of Boblett's advice for surviving a freight recession."
- },
- {
-  "title": "Ep. #47: Chad Boblett, Owner-Operator of Boblett Brothers and Creator of Rate Per Mile Masters",
-  "outlet": "The Freight Pod",
-  "type": "podcast",
-  "date": "2024-12-23",
-  "url": "https://podcasts.apple.com/ca/podcast/ep-47-chad-boblett-owner-operator-of-boblett/id1708429795?i=1000681398542",
-  "summary": "101-minute interview with Andrew Silver on Boblett's origin story, brokers, rate transparency and freight AI."
- },
- {
-  "title": "Ep. #47: Chad Boblett (video)",
-  "outlet": "The Freight Pod (YouTube)",
-  "type": "video",
-  "date": "2024-12-23",
-  "url": "https://www.youtube.com/watch?v=2qVlNEbIxNc",
-  "summary": "Video version of The Freight Pod episode 47."
- },
- {
-  "title": "MATS 2025 Pro Talks: Going the Extra Mile. Getting your Authority and Working with Brokers",
-  "outlet": "Mid-America Trucking Show (archived schedule)",
-  "type": "talk",
-  "date": "2025-03-27",
-  "url": "https://web.archive.org/web/20250325/https://truckingshow.com/education/",
-  "summary": "Archived MATS 2025 Pro Talks schedule: Boblett's RPM Masters session, Thu. Mar. 27, 2025, 1-2 PM, East Hall ProTalks Stage."
- },
- {
-  "title": "We're back at MATS with a Pro-Talk! (LoadPay MATS 2026)",
-  "outlet": "LoadPay by Triumph (LinkedIn)",
-  "type": "post",
-  "date": "2026-02-23",
-  "url": "https://www.linkedin.com/posts/loadpay%2Ecom_were-back-at-mats-with-a-pro-talk-join-activity-7431742587964702720-6KtP",
-  "summary": "LoadPay reshare of the MATS 2026 Carrier Success session with David Viehler, Boblett and Sammy Lloyd."
- },
- {
-  "title": "Show Update: How Highway Drives Revenue, Trust, and Growth for Carriers (MATS 2026)",
-  "outlet": "Mid-America Trucking Show (LinkedIn)",
-  "type": "post",
-  "date": "2026-03-02",
-  "url": "https://www.linkedin.com/posts/midamericatruckingshow_mats2026-matsexperience-activity-7434308299165962240-L-PR",
-  "summary": "MATS announcement of a 2026 session with Highway's John Tozer, Boblett and Khalid Ziadat."
- },
- {
-  "title": "Volatility. Freight cycles. AI. (Triumph MATS 2026 session promo)",
-  "outlet": "Triumph for Carriers (LinkedIn)",
-  "type": "post",
-  "date": "2026-03-16",
-  "url": "https://www.linkedin.com/posts/triumphforcarriers_mats2026-carriersuccess-activity-7439364917771620354-9Prj",
-  "summary": "Triumph promotion of its MATS 2026 carrier-success session featuring Boblett."
- },
- {
-  "title": "Carrier Success: Technology meets lessons from the road",
-  "outlet": "MATS Pro Talks / Triumph (YouTube)",
-  "type": "talk",
-  "date": "2026-04-03",
-  "url": "https://www.youtube.com/watch?v=flBV0onG2SY",
-  "summary": "MATS 2026 Triumph/LoadPay session with LoadPay President David Viehler, Boblett and Sammy Lloyd."
- },
- {
-  "title": "Rate Per Mile Masters: How to Name Your Price in the 2026 Market Flip",
-  "outlet": "MATS Pro Talks (YouTube)",
-  "type": "talk",
-  "date": "2026-04-03",
-  "url": "https://www.youtube.com/watch?v=RWZnakbELOw",
-  "summary": "MATS 2026 Rate Per Mile Masters session on advanced spot-market negotiation for owner-operators."
- },
- {
-  "title": "The Weigh-In: Owner-Operator Chad Boblett on Managing a Business",
-  "outlet": "Uber Freight Blog",
-  "type": "article",
-  "date": "2018-12-03",
-  "url": "https://www.uber.com/us/en/blog/the-weigh-in-owner-operator-chad-boblett-on-managing-a-business/",
-  "summary": "Uber Freight Q&A with Boblett on managing an owner-operator business."
- },
- {
-  "title": "Chad Boblett - Speaker Bio",
-  "outlet": "FreightWaves Events",
-  "type": "talk",
-  "date": null,
-  "url": "https://live.freightwaves.com/event-speakers/chad-boblett",
-  "summary": "FreightWaves events speaker page for Boblett."
- },
- {
-  "title": "Alert for Carriers: Broker Failures Looming - Protect Yourself",
-  "outlet": "LinkedIn (Chad Boblett)",
-  "type": "post",
-  "date": null,
-  "url": "https://www.linkedin.com/posts/chadboblett_alert-for-carriers-broker-failures-looming-activity-7391135623836971008-w4o1",
-  "summary": "Boblett's LinkedIn post warning carriers about cash-flow risk from broker failures."
- },
- {
-  "title": "This is why Highway.com is so vital to the carriers that are doing things the right way",
-  "outlet": "LinkedIn (Chad Boblett)",
-  "type": "post",
-  "date": null,
-  "url": "https://www.linkedin.com/posts/chadboblett_this-is-why-highwaycom-is-so-vital-to-the-activity-7396185956539858944-FI0p",
-  "summary": "Boblett's LinkedIn post on why Highway matters to legitimate carriers."
- },
- {
-  "title": "MATS education schedule listing Chad Boblett",
-  "outlet": "Mid-America Trucking Show",
-  "type": "talk",
-  "date": null,
-  "url": "https://truckingshow.com/education/",
-  "summary": "MATS education page listing Boblett as a session speaker (Founder, Rate Per Mile Masters)."
- },
- {
-  "title": "Andrew Silver announces The Freight Pod episode with Chad Boblett",
-  "outlet": "LinkedIn (Andrew Silver)",
-  "type": "post",
-  "date": null,
-  "url": "https://www.linkedin.com/posts/andrew-silver-4001a04a_mats2025-activity-7277003159665852416-zRtk",
-  "summary": "Host's LinkedIn post introducing Boblett as The Freight Pod's first driver guest."
- },
- {
-  "title": "Join us at MATS for How Highway Drives Revenue, Trust, and Growth for Carriers",
-  "outlet": "Highway (LinkedIn)",
-  "type": "post",
-  "date": null,
-  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7438207461452423168",
-  "summary": "Highway's promo for its MATS 2026 Pro Talks panel with Boblett."
- },
- {
-  "title": "Chad Boblett - Guest author page",
-  "outlet": "Motive",
-  "type": "article",
-  "date": null,
-  "url": "https://gomotive.com/blog/author/chad-boblett/",
-  "summary": "Motive's guest-author page for Boblett."
- },
- {
-  "title": "'100 percent OK' to bring up detention before you get off the phone",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2018-02-13",
-  "url": "https://www.overdriveonline.com/channel-19/article/14893859/100-percent-ok-to-bring-up-detention-before-you-get-off-the-phone",
-  "summary": "Todd Dills quotes Boblett on negotiating detention pay up front now that ELDs are in play."
- },
- {
-  "title": "Highway robbery: Ask the tough questions during negotiations to root out the crooks",
-  "outlet": "Overdrive",
-  "type": "article",
-  "date": "2018-03-07",
-  "url": "https://www.overdriveonline.com/business/article/14893969/highway-robbery-ask-the-tough-questions-during-negotiations-to-root-out-the-crooks",
-  "summary": "Boblett's advice on spotting dishonest brokers: ask more questions and watch days-to-pay."
- },
- {
-  "title": "Obtaining your authority does not automatically make you a trucking company",
-  "outlet": "LinkedIn (Chad Boblett)",
-  "type": "post",
-  "date": "2025-04-21",
-  "url": "https://www.linkedin.com/posts/chadboblett_obtaining-your-authority-does-not-automatically-activity-7320069337648664576-vvAw",
-  "summary": "Chad on what separates a real trucking company from a job with authority."
- },
- {
-  "title": "AI's Impact on the Spot Market Carriers: Boosting Efficiency and Earnings",
-  "outlet": "LinkedIn (Chad Boblett)",
-  "type": "post",
-  "date": "2025-05-20",
-  "url": "https://www.linkedin.com/posts/chadboblett_ais-impact-on-the-spot-market-carriers-activity-7330668295534092289-eVIo",
-  "summary": "Chad on how AI lets spot-market carriers work more efficiently and keep more of each load."
- },
- {
-  "title": "I missed the first $12 Million. I'm not missing the next one.",
-  "outlet": "LinkedIn (Chad Boblett)",
-  "type": "post",
-  "date": "2026-01-19",
-  "url": "https://www.linkedin.com/posts/chadboblett_i-missed-the-first-12-million-im-not-missing-activity-7418806135891202048-hGc7",
-  "summary": "Chad looks back on 15 years since starting his trucking company with $50,000."
- }
+  {
+    "title": "Facebook Group Chases Best-Paying Loads",
+    "outlet": "Class A Drivers",
+    "type": "article",
+    "date": "2014-06-11",
+    "url": "https://www.classadrivers.com/trucking-news/detail/facebook-group-chases-best-paying-loads",
+    "summary": "Early story on Boblett's comeback as an owner-operator and his new Rate Per Mile Masters group (about 1,400 members)."
+  },
+  {
+    "title": "Rates, lanes on Labor Day weekend and beyond: A new resource",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2014-08-30",
+    "url": "https://www.overdriveonline.com/channel-19/article/14886958/rates-lanes-on-labor-day-weekend-and-beyond-a-new-resource",
+    "summary": "Introduces the Rate Per Mile Masters Facebook group as a new rates-and-lanes resource for owner-operators."
+  },
+  {
+    "title": "Riding the spot market boom",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2014-10-01",
+    "url": "https://www.overdriveonline.com/business/article/14887158/riding-the-spot-market-boom",
+    "summary": "Overdrive feature on spot-market owner-operators during the 2014 boom that features Boblett."
+  },
+  {
+    "title": "Getting the best rates: Two approaches",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2014-10-03",
+    "url": "https://www.overdriveonline.com/business/article/14887160/getting-the-best-rates-two-approaches",
+    "summary": "Compares two owner-operator approaches to securing top rates, including Boblett's spot-market strategy."
+  },
+  {
+    "title": "Chad Boblett trucks up from nothing",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2014-10-22",
+    "url": "https://www.overdriveonline.com/channel-19/article/14887274/chad-boblett-trucks-up-from-nothing",
+    "summary": "Todd Dills profiles how Boblett started his one-truck business in 2011 after losing nearly everything to an injury."
+  },
+  {
+    "title": "Uber-for-freight finds its footing",
+    "outlet": "FleetOwner",
+    "type": "article",
+    "date": "2015-07-29",
+    "url": "https://www.fleetowner.com/technology/article/21691347/uber-for-freight-finds-its-footing",
+    "summary": "Cristina Commendatore on app-based freight matching, with Boblett explaining why he still relies on traditional load boards."
+  },
+  {
+    "title": "Diesel Average Tumbles Below $2 for First Time Since February 2005",
+    "outlet": "Transport Topics",
+    "type": "article",
+    "date": "2016-02-22",
+    "url": "https://www.ttnews.com/articles/diesel-average-tumbles-below-2-first-time-february-2005",
+    "summary": "Roger Gilroy quotes Boblett on cheap fuel: \"How about we ask for 10 cents more a mile, too?\""
+  },
+  {
+    "title": "DAT to Hold First User Conference for Brokers",
+    "outlet": "DAT (press release)",
+    "type": "article",
+    "date": "2016-06-16",
+    "url": "https://www.dat.com/company/news-events/news-releases/dat-to-hold-first-user-conference-for-brokers",
+    "summary": "DAT names Boblett, founder of RPM Masters, as keynote speaker at its first user conference, Oct. 17-19, 2016 in Portland, Ore."
+  },
+  {
+    "title": "New Carrier Onboarding Software: Fast, Accurate, 100% Mobile",
+    "outlet": "DAT Blog",
+    "type": "article",
+    "date": "2016-11-14",
+    "url": "https://www.dat.com/blog/new-carrier-onboarding-software-fast-accurate-100-mobile",
+    "summary": "DAT product news quoting Boblett, founder of the then 8,500-member Rate Per Mile Masters, on the pain of broker setup."
+  },
+  {
+    "title": "Lexington KY I-64",
+    "outlet": "YouTube (@ChadBoblett)",
+    "type": "video",
+    "date": "2017-01-07",
+    "url": "https://www.youtube.com/watch?v=NpUkQJpn13o",
+    "summary": "Boblett's first YouTube video, a drive on I-64 in Lexington."
+  },
+  {
+    "title": "Rate Per Mile Masters founder Chad Boblett from MATS: How broker relationships saved him during recent downturn",
+    "outlet": "Overdrive Radio",
+    "type": "podcast",
+    "date": "2017-03-27",
+    "url": "https://www.overdriveonline.com/overdrive-radio/podcast/14892097/rate-per-mile-masters-founder-chad-boblett-from-mats-how-broker-relationships-saved-him-during-recent-downturn",
+    "summary": "Podcast recorded at MATS 2017 on Boblett's shift to steady broker-lane relationships, recorded at the DAT booth."
+  },
+  {
+    "title": "3PLs Tout Technology as Tool to Build Relationships in Supply Chain",
+    "outlet": "Transport Topics",
+    "type": "article",
+    "date": "2017-04-11",
+    "url": "https://www.ttnews.com/articles/3pls-tout-technology-tool-build-relationships-supply-chain",
+    "summary": "Ari Ashe quotes Boblett on why broker reviews and days-to-pay matter more to him than a credit score."
+  },
+  {
+    "title": "4 Ways to Find a Great Load",
+    "outlet": "DAT Blog",
+    "type": "article",
+    "date": "2017-04-19",
+    "url": "https://www.dat.com/blog/4-ways-to-find-a-great-load",
+    "summary": "DAT blog post by Boblett with tips for finding good loads."
+  },
+  {
+    "title": "Do the 3 O'Clock Hustle",
+    "outlet": "YouTube (@ChadBoblett)",
+    "type": "video",
+    "date": "2017-05-17",
+    "url": "https://www.youtube.com/watch?v=Axr7mUQieMM",
+    "summary": "Boblett's own video explaining his 3 o'clock hustle and inviting viewers to Rate Per Mile Masters."
+  },
+  {
+    "title": "Posting Trucks and the 80/20 Rule",
+    "outlet": "DAT Blog",
+    "type": "article",
+    "date": "2017-06-27",
+    "url": "https://www.dat.com/blog/posting-trucks-and-the-80-20-rule",
+    "summary": "DAT blog post by Boblett on why owner-operators should post their trucks."
+  },
+  {
+    "title": "Research broker histories before taking load from new source",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2017-08-10",
+    "url": "https://www.overdriveonline.com/business/article/14892861/research-broker-histories-before-taking-load-from-new-source",
+    "summary": "Matt Cole on vetting brokers, with Boblett on how load-board reviews saved him from bad loads."
+  },
+  {
+    "title": "Spot Market Skyrockets in Aftermath of Hurricane Harvey",
+    "outlet": "Transport Topics",
+    "type": "article",
+    "date": "2017-09-07",
+    "url": "https://www.ttnews.com/articles/spot-market-skyrockets-aftermath-hurricane-harvey",
+    "summary": "Ari Ashe cites relief-load rates Boblett posted to Rate Per Mile Masters (then nearly 14,000 members)."
+  },
+  {
+    "title": "Diesel Climbs Again, Rises 2.3¢ to $2.996 a Gallon",
+    "outlet": "Transport Topics",
+    "type": "article",
+    "date": "2018-01-08",
+    "url": "https://www.ttnews.com/articles/diesel-climbs-again-rises-23c-2996-gallon",
+    "summary": "Quotes Boblett on how confusing fuel surcharges can be for owner-operators and shippers."
+  },
+  {
+    "title": "Freight Broker",
+    "outlet": "FleetOwner",
+    "type": "article",
+    "date": "2018-01-19",
+    "url": "https://www.fleetowner.com/for-the-driver/article/21185592/freight-broker",
+    "summary": "Sean Kilcarr on Boblett's rules for building strong owner-operator and broker relationships."
+  },
+  {
+    "title": "RPM Masters: How a Facebook community is changing the game for truckers",
+    "outlet": "FreightWaves",
+    "type": "article",
+    "date": "2018-01-20",
+    "url": "https://www.freightwaves.com/news/2018-1-20-rpm-masters-how-a-facebook-community-is-changing-the-game-for-truckers",
+    "summary": "FreightWaves profile of Rate Per Mile Masters, then over 18,000 members, with Boblett quotes on broker accountability."
+  },
+  {
+    "title": "As detention mounts, drivers still searching for a solution",
+    "outlet": "FreightWaves",
+    "type": "article",
+    "date": "2018-02-20",
+    "url": "https://www.freightwaves.com/news/cash-flow-corner-driver-detention",
+    "summary": "Cites Boblett's DAT blog advice on negotiating detention pay with brokers."
+  },
+  {
+    "title": "Post Your Truck to Find Better-Paying Loads",
+    "outlet": "Truckers Choice Industry News",
+    "type": "article",
+    "date": "2018-02-23",
+    "url": "https://news.truckerschoice.com/post-your-truck-to-find-better-paying-loads/",
+    "summary": "Boblett's article on posting your truck to get better-paying loads (first posted Feb. 22, 2018)."
+  },
+  {
+    "title": "Highway robbery: More warning signs in negotiations with brokers",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2018-03-08",
+    "url": "https://www.overdriveonline.com/business/article/14893970/highway-robbery-more-warning-signs-in-negotiations-with-brokers",
+    "summary": "Todd Dills: Boblett on undercounted mileage, \"load is ready now\" work-ins and double brokering."
+  },
+  {
+    "title": "Highway robbery: A clouded transparency",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2018-03-09",
+    "url": "https://www.overdriveonline.com/business/article/14893971/highway-robbery-a-clouded-transparency",
+    "summary": "Todd Dills: Boblett on negotiating truck-ordered-not-used (TONU) pay and detention up front."
+  },
+  {
+    "title": "Getting Your Carrier Authority - Myth and Reality",
+    "outlet": "DAT Blog",
+    "type": "article",
+    "date": "2018-03-15",
+    "url": "https://www.dat.com/blog/getting-your-carrier-authority-myth-and-reality",
+    "summary": "DAT blog post by Boblett on the myths and realities of getting your own operating authority."
+  },
+  {
+    "title": "LoadHack: How to Use Load In/Load Out to Maximize Loads/Rates (From MATS 2018)",
+    "outlet": "RPM QuickPay",
+    "type": "video",
+    "date": "2018-03-29",
+    "url": "https://www.rpmquickpay.com/2018/03/29/loadhack-how-to-use-load-in-load-out-to-maximize-loads-rates-from-mats-2018/",
+    "summary": "Boblett at MATS 2018 showing owner-operators how to use DAT's load board load in/load out data."
+  },
+  {
+    "title": "Fuel Advances – Broker vs. Factoring Company",
+    "outlet": "RPM QuickPay",
+    "type": "article",
+    "date": "2018-05-07",
+    "url": "https://www.rpmquickpay.com/2018/05/07/fuel-advances-broker-vs-factoring-company/",
+    "summary": "Boblett's post comparing broker fuel advances with factoring-company advances."
+  },
+  {
+    "title": "The little guys speak: how will technology help our businesses?",
+    "outlet": "FreightWaves",
+    "type": "article",
+    "date": "2018-05-26",
+    "url": "https://www.freightwaves.com/news/transport-technology-smaller-carriers",
+    "summary": "John Kingston's recap of the Transparency18 small-carrier panel, quoting Boblett on smarter load boards."
+  },
+  {
+    "title": "What Does it Cost to Run Your Trucking Company?",
+    "outlet": "DAT Blog",
+    "type": "article",
+    "date": "2018-05-30",
+    "url": "https://www.dat.com/blog/what-does-it-cost-to-run-your-trucking-company-2",
+    "summary": "DAT blog post by Boblett breaking down fixed and variable trucking costs."
+  },
+  {
+    "title": "Cutting Motor Carrier Costs, One Line Item at a Time",
+    "outlet": "Truckers Choice Industry News",
+    "type": "article",
+    "date": "2018-07-10",
+    "url": "https://news.truckerschoice.com/cutting-motor-carrier-costs-one-line-item-at-a-time/",
+    "summary": "Boblett's article on trimming a carrier's costs line by line."
+  },
+  {
+    "title": "How Brokers and Carriers Can Avoid Getting Scammed",
+    "outlet": "RPM QuickPay",
+    "type": "article",
+    "date": "2018-07-23",
+    "url": "https://www.rpmquickpay.com/2018/07/23/how-brokers-and-carriers-can-avoid-getting-scammed/",
+    "summary": "Boblett's post on spotting and stopping freight scams."
+  },
+  {
+    "title": "When should you replace your truck?",
+    "outlet": "Truckers Choice Industry News",
+    "type": "article",
+    "date": "2018-08-23",
+    "url": "https://news.truckerschoice.com/when-should-you-replace-your-truck/",
+    "summary": "Boblett's article on planning a truck replacement before a breakdown forces it (first posted Jul. 11, 2018)."
+  },
+  {
+    "title": "'Rock Your Rate': Making the most of the freight spot market",
+    "outlet": "Overdrive (YouTube)",
+    "type": "video",
+    "date": "2018-09-25",
+    "url": "https://www.youtube.com/watch?v=T8_cN2hrg28",
+    "summary": "Video of Boblett's spot-market primer at GATS 2018."
+  },
+  {
+    "title": "'Rock your rate': Using spot market demand data to advantage",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2018-09-26",
+    "url": "https://www.overdriveonline.com/channel-19/article/14895122/chad-boblett-talks-growth-in-spot-market-rates",
+    "summary": "Overdrive article and video of Boblett's spot-market talk at the DAT booth at the 2018 Great American Trucking Show."
+  },
+  {
+    "title": "4 ways truckers can get more time at home",
+    "outlet": "Truckers Choice Industry News",
+    "type": "article",
+    "date": "2018-10-11",
+    "url": "https://news.truckerschoice.com/4-ways-truckers-can-get-more-time-at-home/",
+    "summary": "Boblett's article on getting more home time (first posted Aug. 15, 2018)."
+  },
+  {
+    "title": "Transparency18: How is Technology Affecting and Enabling the Micro-Carrier? (Part 1)",
+    "outlet": "You Drive U / TWA (YouTube)",
+    "type": "talk",
+    "date": "2018-10-24",
+    "url": "https://www.youtube.com/watch?v=4PXFQK1VXXI",
+    "summary": "Panel at Transparency18 in Atlanta (May 2018) with Boblett, Kenny Long, Pete Emahiser and OOIDA's Rod Nofziger on tech and small carriers."
+  },
+  {
+    "title": "Transparency18: How is Technology Affecting and Enabling the Micro-Carrier? (Part 2)",
+    "outlet": "You Drive U / TWA (YouTube)",
+    "type": "talk",
+    "date": "2018-10-24",
+    "url": "https://www.youtube.com/watch?v=3gDKBg89tWA",
+    "summary": "Second half of the Transparency18 micro-carrier technology panel featuring Boblett."
+  },
+  {
+    "title": "An owner-operator shares his advice for choosing the right loads",
+    "outlet": "Uber Freight (YouTube)",
+    "type": "video",
+    "date": "2018-11-05",
+    "url": "https://www.youtube.com/watch?v=mB2cUcWgXU0",
+    "summary": "Uber Freight video of Boblett sharing advice on choosing loads."
+  },
+  {
+    "title": "4 lessons the Marines taught me about owning a business",
+    "outlet": "Truckers Choice Industry News",
+    "type": "article",
+    "date": "2018-12-21",
+    "url": "https://news.truckerschoice.com/4-lessons-the-marines-taught-me-about-owning-a-business/",
+    "summary": "Boblett on what the Marine Corps taught him about running a trucking business (first posted Dec. 6, 2018)."
+  },
+  {
+    "title": "Truckers reveal in a new survey who they hate shipping for the most",
+    "outlet": "Business Insider",
+    "type": "article",
+    "date": "2018-12-30",
+    "url": "https://www.businessinsider.com/truck-drivers-kroger-bad-survey-2018-12",
+    "summary": "Rachel Premack quotes Boblett on why big grocery receivers are the hardest customers."
+  },
+  {
+    "title": "6 rules for making money in the slow season",
+    "outlet": "DAT Blog",
+    "type": "article",
+    "date": "2018-12-31",
+    "url": "https://www.dat.com/blog/6-rules-for-making-money-in-the-slow-season",
+    "summary": "DAT blog post by Boblett with his six rules for the winter slow season."
+  },
+  {
+    "title": "Partial loads: A slow season secret weapon?",
+    "outlet": "DAT Blog",
+    "type": "article",
+    "date": "2019-02-06",
+    "url": "https://www.dat.com/blog/partial-loads-a-slow-season-secret-weapon",
+    "summary": "DAT blog post by Boblett on combining partial loads in slow markets."
+  },
+  {
+    "title": "Pros and cons: Brokered vs. direct shipper freight",
+    "outlet": "DAT Blog",
+    "type": "article",
+    "date": "2019-03-08",
+    "url": "https://www.dat.com/blog/pros-and-cons-brokered-vs-direct-shipper-freight",
+    "summary": "DAT blog post by Boblett weighing brokered freight against direct shipper freight."
+  },
+  {
+    "title": "Why pick a fight with the air? And: Downtime for the spot market 3 o'clock hustle",
+    "outlet": "Overdrive Radio",
+    "type": "podcast",
+    "date": "2019-03-29",
+    "url": "https://www.overdriveonline.com/overdrive-radio/podcast/14896085/why-pick-a-fight-with-the-air-and-downtime-for-the-spot-market-3-oclock-hustle",
+    "summary": "MATS 2019 podcast where Boblett explains his '3 o'clock hustle' for better spot rates."
+  },
+  {
+    "title": "Truck Show Tips: Highlights from MATS 2019",
+    "outlet": "DAT Freight & Analytics (YouTube)",
+    "type": "video",
+    "date": "2019-04-16",
+    "url": "https://www.youtube.com/watch?v=E_IL8NboKSU",
+    "summary": "Boblett tours some of his favorite booths at MATS 2019 for DAT."
+  },
+  {
+    "title": "Rates hack: The spot market 3 o’clock hustle",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2019-05-02",
+    "url": "https://www.overdriveonline.com/voices/article/14896278/rates-hack-the-spot-market-3-oclock-hustle",
+    "summary": "Todd Dills writes up Boblett's 3 o'clock hustle for naming your rate late in the broker's day."
+  },
+  {
+    "title": "Truckers warn of a 'bloodbath' as trucking companies go bankrupt and slash profit expectations",
+    "outlet": "Business Insider",
+    "type": "article",
+    "date": "2019-06-19",
+    "url": "https://www.businessinsider.com/truckers-warn-bloodbath-companies-bankrupt-lower-expectations-2019-6",
+    "summary": "Rachel Premack's story built on Boblett's description of 2019 as a \"bloodbath\" for truckers."
+  },
+  {
+    "title": "Truckers say Amazon's new logistics empire is being underpinned by low, 'ridiculous' rates — and some are refusing to work with them",
+    "outlet": "Business Insider",
+    "type": "article",
+    "date": "2019-06-22",
+    "url": "https://www.businessinsider.com/amazon-truckers-low-rates-no-work-2019-6",
+    "summary": "Quotes Boblett: \"We cannot continue driving shipping costs down.\""
+  },
+  {
+    "title": "Do the 3 O'Clock Hustle",
+    "outlet": "YouTube (Rate Per Mile Masters)",
+    "type": "video",
+    "date": "2019-08-17",
+    "url": "https://www.youtube.com/watch?v=t2X_OOJohWs",
+    "summary": "Rate Per Mile Masters channel upload of the 3 o'clock hustle video."
+  },
+  {
+    "title": "A freight windfall hints that the trucking 'bloodbath' may let up",
+    "outlet": "Business Insider",
+    "type": "article",
+    "date": "2019-08-24",
+    "url": "https://www.businessinsider.com/trucking-bloodbath-freight-volume-boost-2019-8",
+    "summary": "Cites Boblett's \"bloodbath\" description of the 2019 freight market."
+  },
+  {
+    "title": "How to Spot Good Loads in Bad Markets",
+    "outlet": "ExpressTruckTax Blog",
+    "type": "article",
+    "date": "2019-09-03",
+    "url": "https://www.expresstrucktax.com/blog/how-to-spot-good-loads-in-bad-markets/",
+    "summary": "Repost of Boblett's DAT article on finding good loads in a down market."
+  },
+  {
+    "title": "Uber Freight Opens HQ in Chicago With Expansive Plans",
+    "outlet": "Transport Topics",
+    "type": "article",
+    "date": "2019-09-09",
+    "url": "https://www.ttnews.com/articles/uber-freight-opens-hq-chicago-expansive-plans",
+    "summary": "Quotes Boblett's RPM Masters post (then almost 28,000 members) on owner-operators and app-based freight."
+  },
+  {
+    "title": "Around 5,100 truck drivers lost their jobs in August as the trucking 'bloodbath' rages on",
+    "outlet": "Business Insider",
+    "type": "article",
+    "date": "2019-09-10",
+    "url": "https://www.businessinsider.com/trucking-bloodbath-4500-truck-drivers-lost-jobs-in-august-2019-9",
+    "summary": "Opens with Boblett's description of 2019 as a \"bloodbath.\""
+  },
+  {
+    "title": "How 4 veterans found solace and success in trucking",
+    "outlet": "Uber Freight Blog",
+    "type": "article",
+    "date": "2019-11-08",
+    "url": "https://www.uberfreight.com/en-US/blog/military-veteran-truck-drivers",
+    "summary": "Uber Freight Veterans Day feature including Marine Corps veteran Boblett."
+  },
+  {
+    "title": "Convoy to Expand Services After $400 Million in New Funding",
+    "outlet": "Transport Topics",
+    "type": "article",
+    "date": "2019-11-19",
+    "url": "https://www.ttnews.com/articles/convoy-expand-services-after-400-million-new-funding",
+    "summary": "Roger Gilroy quotes Boblett's RPM Masters post (28,310 members) on digital brokers."
+  },
+  {
+    "title": "America's largest truck-engine manufacturer just announced 2,000 layoffs — and it's another sign of the trucking 'bloodbath' that's slamming the $800 billion industry",
+    "outlet": "Business Insider",
+    "type": "article",
+    "date": "2019-11-25",
+    "url": "https://www.businessinsider.com/cummins-confirms-2000-layoffs-at-truck-engine-manufacturer-trucking-downturn-2019-11",
+    "summary": "Says the data backs up Boblett's \"bloodbath\" claim."
+  },
+  {
+    "title": "An internal doc reveals Amazon is ditching the trucking industry's most common pay practice — and it's a brilliant maneuver that could give the e-commerce giant a massive advantage",
+    "outlet": "Business Insider",
+    "type": "article",
+    "date": "2019-11-26",
+    "url": "https://www.businessinsider.com/amazon-truck-drivers-pay-hourly-per-mile-2019-11",
+    "summary": "Boblett on Amazon's per-day pay for truckers: \"I love the creativity of it.\""
+  },
+  {
+    "title": "Thousands of truck drivers have lost their jobs in 2019 as the transportation 'bloodbath' unfolds. Here's the list of the biggest bankrupt trucking companies.",
+    "outlet": "Business Insider",
+    "type": "article",
+    "date": "2019-12-10",
+    "url": "https://www.businessinsider.com/trucking-companies-bankrupt-list-truckers-react-to-industry-bloodbath-2019-7",
+    "summary": "Quotes Boblett on how low rates had fallen in 2019."
+  },
+  {
+    "title": "Thousands of truck drivers lost their jobs in the 2019 trucking 'bloodbath.' Here's why the $800 billion industry dipped into a recession.",
+    "outlet": "Business Insider",
+    "type": "article",
+    "date": "2019-12-30",
+    "url": "https://www.businessinsider.com/why-trucking-industry-slowdown-trucker-job-loss-2019-7",
+    "summary": "Year-end look at the 2019 downturn, citing Boblett's \"bloodbath\" description."
+  },
+  {
+    "title": "New owner-operators: 7 ways to reduce your expenses",
+    "outlet": "Motive Blog",
+    "type": "article",
+    "date": "2020-01-14",
+    "url": "https://gomotive.com/blog/owner-operators-reduce-expenses/",
+    "summary": "Guest post by Boblett on cutting breakdowns, fuel, admin and violation costs."
+  },
+  {
+    "title": "Some truckers are slamming Amazon for an unusual driver support strategy as the megaretailer morphs into a trucking company",
+    "outlet": "Business Insider",
+    "type": "article",
+    "date": "2020-02-13",
+    "url": "https://www.businessinsider.com/amazon-outsources-some-trucker-support-drivers-say-its-dangerous-2020-2",
+    "summary": "Revisits Boblett's comments on Amazon's per-day pay model."
+  },
+  {
+    "title": "MATS hosts variety of seminars; FMCSA chief appears",
+    "outlet": "Truckers News",
+    "type": "article",
+    "date": "2020-02-14",
+    "url": "https://www.truckersnews.com/news/article/15062550/mats-hosts-variety-of-seminars-fmcsa-chief-appears",
+    "summary": "MATS 2020 seminar lineup listing Boblett's 'Going the Extra Mile from Driver to Carrier' (show later canceled for COVID-19)."
+  },
+  {
+    "title": "How I became an owner-operator and got my own authority",
+    "outlet": "Motive Blog",
+    "type": "article",
+    "date": "2020-03-02",
+    "url": "https://gomotive.com/blog/chad-boblett-became-owner-operator/",
+    "summary": "Boblett's first-person story: Marines, CDL school in 2006, injury, four credit cards, a $35,000 truck and his own authority."
+  },
+  {
+    "title": "How brokers, carriers can prevent business ID theft schemes",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2020-03-12",
+    "url": "https://www.overdriveonline.com/business/article/14897500/preventing-business-identity-theft-as-broker-and-carrier",
+    "summary": "Todd Dills: Boblett's \"two-call authentication\" for verifying a new broker, and RPM Masters' role in exposing scams."
+  },
+  {
+    "title": "Vetting a broker's credit before taking a truckload",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2020-03-17",
+    "url": "https://www.overdriveonline.com/business/article/14897528/vetting-a-brokers-credit-before-taking-a-truckload",
+    "summary": "Boblett on checking broker credit in the DAT directory and how RPM Masters helps expose scams."
+  },
+  {
+    "title": "Trucking spot markets are pricing in coronavirus infection rates",
+    "outlet": "FreightWaves",
+    "type": "article",
+    "date": "2020-03-19",
+    "url": "https://www.freightwaves.com/news/trucking-spot-markets-are-pricing-in-coronavirus-infection-rates",
+    "summary": "Cites Boblett's RPM Masters post on turning down a $4.18-a-mile load early in COVID-19."
+  },
+  {
+    "title": "Rock-bottom rates stir 're-regulation' debate",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2020-05-05",
+    "url": "https://www.overdriveonline.com/channel-19/article/14897707/rockbottom-rates-stir-reregulation-debate",
+    "summary": "Covers Boblett's idea of an emergency broker-margin ceiling and his RPM Masters member poll."
+  },
+  {
+    "title": "Comparing costs — and strategies to profit, ultimately",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2020-06-10",
+    "url": "https://www.overdriveonline.com/channel-19/article/14897814/profit-strategies-evaluating-fixed-and-variable-costs",
+    "summary": "Todd Dills on cost per mile, citing a fixed-vs-variable cost question Boblett raised in RPM Masters."
+  },
+  {
+    "title": "A freight time to be in shipping",
+    "outlet": "Marketplace",
+    "type": "article",
+    "date": "2020-12-21",
+    "url": "https://www.marketplace.org/story/2020/12/21/a-freight-time-to-be-in-shipping",
+    "summary": "Sabri Ben-Achour interviews Boblett on record pandemic-era freight demand."
+  },
+  {
+    "title": "Fireside chat with Chad Boblett, live from Lexington, Ky. (SmartHop tour kickoff)",
+    "outlet": "LinkedIn (Guillermo Garcia via Gianni Piccoletti)",
+    "type": "post",
+    "date": "2021-05-21",
+    "url": "https://www.linkedin.com/posts/gpiccoletti_fireside-chat-with-chad-boblett-activity-6801531449825660928-vLaL",
+    "summary": "Promo for SmartHop's May 26, 2021 live fireside chat with Boblett and Guillermo Garcia."
+  },
+  {
+    "title": "Creating a 30,000+ Facebook Group with Chad Boblett of Rate Per Mile Masters",
+    "outlet": "BulkLoads Podcast",
+    "type": "podcast",
+    "date": "2021-06-04",
+    "url": "https://www.bulkloads.com/tools/podcasts/the-mind-behind-creating-a-successful-facebook-group-with-chad-boblett-of-rate-per-mile-masters/",
+    "summary": "Podcast on how Boblett built Rate Per Mile Masters past 30,000 members."
+  },
+  {
+    "title": "CloudTrucks offers drivers Road to Independence",
+    "outlet": "FreightWaves",
+    "type": "article",
+    "date": "2021-06-15",
+    "url": "https://www.freightwaves.com/news/cloudtrucks-offers-drivers-road-to-independence",
+    "summary": "FreightWaves story on CloudTrucks quoting Boblett on what independent drivers need."
+  },
+  {
+    "title": "What Impacts a Trucker's Bottom Line?",
+    "outlet": "SmartHop (YouTube)",
+    "type": "video",
+    "date": "2021-10-20",
+    "url": "https://www.youtube.com/watch?v=HzetZPV2ZVw",
+    "summary": "SmartHop fireside chat with CEO Guillermo Garcia and Boblett on costs and insurance."
+  },
+  {
+    "title": "Ever wanted to be able to post your truck with a rate attached? Now you can",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2022-03-24",
+    "url": "https://www.overdriveonline.com/business/article/15290130/ever-wanted-to-be-able-to-post-your-truck-with-a-rate-attached-now-you-can",
+    "summary": "Boblett on DAT's new rate-on-truck-post feature: \"I have been asking for carriers to be able to post their rate for years.\""
+  },
+  {
+    "title": "DAT and FourKites Bring Real-time Supply Chain Visibility to North America's Largest Freight Marketplace",
+    "outlet": "DAT (press release)",
+    "type": "article",
+    "date": "2022-03-28",
+    "url": "https://www.dat.com/company/news-events/news-releases/dat-and-fourkites-bring-real-time-supply-chain-visibility-to-north-americas-largest-freight-marketplace",
+    "summary": "DAT announcement quoting Boblett, owner of Boblett Brothers Trucking, on why visibility matters."
+  },
+  {
+    "title": "Going the Extra Mile from Driver to Carrier",
+    "outlet": "MATS Pro Talks (YouTube)",
+    "type": "talk",
+    "date": "2022-04-15",
+    "url": "https://www.youtube.com/watch?v=VXlFia7KXMc",
+    "summary": "Boblett's MATS 2022 Pro Talk on moving from company driver to carrier with his own authority."
+  },
+  {
+    "title": "Negotiating from the Driver's Seat",
+    "outlet": "MATS Pro Talks / DAT (YouTube)",
+    "type": "talk",
+    "date": "2022-04-15",
+    "url": "https://www.youtube.com/watch?v=uXEFOQVAye4",
+    "summary": "MATS 2022 negotiation session presented by DAT's Robert Rouse and Boblett."
+  },
+  {
+    "title": "How to speak your freight broker's language with confidence",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2022-05-25",
+    "url": "https://www.overdriveonline.com/business/article/15292461/how-to-speak-your-freight-brokers-language-with-confidence",
+    "summary": "Overdrive coverage of the MATS 'Negotiating From the Driver's Seat' session, quoting Boblett on rate benchmarks."
+  },
+  {
+    "title": "DAT introduces the DAT One app, providing expanded mobile access to the industry’s largest load board",
+    "outlet": "DAT (press release)",
+    "type": "article",
+    "date": "2022-08-09",
+    "url": "https://www.dat.com/company/news-events/news-releases/dat-introduces-the-dat-one-app-providing-expanded-mobile-access-to-the-industrys-largest-load-board",
+    "summary": "DAT's DAT One app launch release, quoting Boblett."
+  },
+  {
+    "title": "New DAT app designed to help drivers find profitable loads",
+    "outlet": "The Trucker",
+    "type": "article",
+    "date": "2022-08-10",
+    "url": "https://www.thetrucker.com/trucking-news/equipment-tech/new-dat-app-designed-to-help-drivers-find-profitable-loads",
+    "summary": "Coverage of the DAT One app launch, quoting Boblett on booking loads without a laptop."
+  },
+  {
+    "title": "How to optimize your load board",
+    "outlet": "DAT Blog",
+    "type": "article",
+    "date": "2022-10-04",
+    "url": "https://www.dat.com/blog/how-to-optimize-your-load-board",
+    "summary": "DAT post featuring Boblett's advice on getting the most from a load board subscription."
+  },
+  {
+    "title": "Getting Paid in 2023 (Triumph panel at MATS)",
+    "outlet": "Triumph (LinkedIn)",
+    "type": "post",
+    "date": "2023-03-30",
+    "url": "https://www.linkedin.com/posts/triumphforcarriers_mats2023-activity-7047615464717340674-Eyuo",
+    "summary": "Triumph announcement of its MATS 2023 'Getting Paid in 2023' panel featuring Boblett."
+  },
+  {
+    "title": "Spot market evolves: 'Totally different world' for relationships",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2023-06-08",
+    "url": "https://www.overdriveonline.com/business/article/15540229/spot-market-evolves-totally-different-world-for-relationships",
+    "summary": "Boblett on pushing hard with brokers in soft markets and using DAT lane averages to negotiate."
+  },
+  {
+    "title": "In a tough spot market, strong relationships with those who feed you will pay off",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2023-06-08",
+    "url": "https://www.overdriveonline.com/business/article/15540181/brokershipper-relationships-pay-off-in-tough-spot-freight-market",
+    "summary": "Matt Cole: Boblett on building a broker relationship in three straight loads during a down market."
+  },
+  {
+    "title": "Surviving and Thriving in the Trucking Industry With Rate per Mile Masters!",
+    "outlet": "Pullsure / Get a Load of This (YouTube)",
+    "type": "podcast",
+    "date": "2023-09-22",
+    "url": "https://www.youtube.com/watch?v=oP2rNWONKKc",
+    "summary": "Interview with Cameron Pechia on Boblett's path from rock bottom to a successful owner-operator."
+  },
+  {
+    "title": "5 things to watch for at MATS: Beating fraud, sluggish markets",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2024-03-14",
+    "url": "https://www.overdriveonline.com/overdrive-extra/article/15666301/5-things-to-watch-for-at-mats-beating-fraud-sluggish-markets",
+    "summary": "MATS 2024 preview noting Boblett opening the Pro Talks series on the East Hall stage."
+  },
+  {
+    "title": "Market has bottomed out, trucking speakers agree",
+    "outlet": "Trucking Dive",
+    "type": "article",
+    "date": "2024-03-22",
+    "url": "https://www.truckingdive.com/news/market-bottom-out-trucking-speakers-MATS/711079/",
+    "summary": "David Taube's MATS 2024 report quoting Boblett on the spot market hitting bottom."
+  },
+  {
+    "title": "Tips to Stay Afloat in Tough Times Including the Use of Power Only - S1:EP6",
+    "outlet": "Reliance Partners (YouTube)",
+    "type": "podcast",
+    "date": "2024-03-28",
+    "url": "https://www.youtube.com/watch?v=ey7RbkBKxlo",
+    "summary": "Trucking & Safety Matters episode with Thom Albrecht on rates, power only, safety scores and authority."
+  },
+  {
+    "title": "Hauling Success: Insights from Rate Per Mile Masters",
+    "outlet": "MATS Pro Talks (YouTube)",
+    "type": "talk",
+    "date": "2024-04-09",
+    "url": "https://www.youtube.com/watch?v=oHvUpz0QWb4",
+    "summary": "MATS 2024 Rate Per Mile Masters talk on the spot market, authority, brokers and power only."
+  },
+  {
+    "title": "Chad Boblett's Owner-Operator Tips To Stay Afloat During Tough Times",
+    "outlet": "PodWheels",
+    "type": "podcast",
+    "date": "2024-04-17",
+    "url": "https://podwheels.com/chad-bobletts-owner-operator-tips-to-stay-afloat-during-tough-times/",
+    "summary": "PodWheels write-up of the Reliance Partners episode with Boblett."
+  },
+  {
+    "title": "4 things to know about the 2024 Small Fleet & Owner-Operator Summit",
+    "outlet": "FreightWaves",
+    "type": "article",
+    "date": "2024-04-23",
+    "url": "https://www.freightwaves.com/news/4-things-to-know-about-the-2024-small-fleet-owner-operator-summit",
+    "summary": "Preview of the virtual summit, including Boblett's fireside chat."
+  },
+  {
+    "title": "Trucking influencer shares business and health lessons",
+    "outlet": "FreightWaves",
+    "type": "article",
+    "date": "2024-04-24",
+    "url": "https://www.freightwaves.com/news/trucking-influencer-shares-business-and-health-lessons",
+    "summary": "Recap of Boblett's fireside chat on business and driver health at a FreightWaves summit."
+  },
+  {
+    "title": "Behind the Wheel: Expert Advice from an Owner-Operator with Chad Boblett",
+    "outlet": "FreightWaves (YouTube)",
+    "type": "talk",
+    "date": "2024-04-24",
+    "url": "https://www.youtube.com/watch?v=kevjXogm_ak",
+    "summary": "Video of Boblett's FreightWaves fireside chat."
+  },
+  {
+    "title": "FreightWaves Small Fleet & Owner-Operator Summit 2024 (agenda)",
+    "outlet": "FreightWaves Events",
+    "type": "talk",
+    "date": "2024-04-24",
+    "url": "https://live.freightwaves.com/small-fleet-owner-operator-summit-2024",
+    "summary": "Agenda listing Boblett's fireside chat 'Behind the Wheel: Expert Advice from an Owner-Operator' with Grace Sharkey."
+  },
+  {
+    "title": "How to Increase Your Trucking Income with Power Only",
+    "outlet": "Triumph Blog",
+    "type": "article",
+    "date": "2024-08-05",
+    "url": "https://www.triumph.io/blog/broker/how-to-increase-your-trucking-income-with-power-only/",
+    "summary": "Triumph interview with Boblett on using power-only freight to differentiate and grow income."
+  },
+  {
+    "title": "How truckers save money during a down market",
+    "outlet": "Triumph (YouTube)",
+    "type": "video",
+    "date": "2024-12-09",
+    "url": "https://www.youtube.com/watch?v=3tBgIoUHgoQ",
+    "summary": "Triumph video of Boblett's tips for saving money in a down market."
+  },
+  {
+    "title": "Top Tips for Truckers Needing to Save Money",
+    "outlet": "Triumph (YouTube)",
+    "type": "video",
+    "date": "2024-12-09",
+    "url": "https://www.youtube.com/watch?v=c1AMnDmhXwY",
+    "summary": "Triumph video of Boblett's money-saving tips for trucking company owners."
+  },
+  {
+    "title": "How to Survive a Freight Recession",
+    "outlet": "Triumph (YouTube)",
+    "type": "video",
+    "date": "2024-12-09",
+    "url": "https://www.youtube.com/watch?v=1RBDx-AmXVo",
+    "summary": "Triumph video of Boblett's advice for surviving a freight recession."
+  },
+  {
+    "title": "Ep. #47: Chad Boblett, Owner-Operator of Boblett Brothers and Creator of Rate Per Mile Masters",
+    "outlet": "The Freight Pod",
+    "type": "podcast",
+    "date": "2024-12-23",
+    "url": "https://podcasts.apple.com/ca/podcast/ep-47-chad-boblett-owner-operator-of-boblett/id1708429795?i=1000681398542",
+    "summary": "101-minute interview with Andrew Silver on Boblett's origin story, brokers, rate transparency and freight AI."
+  },
+  {
+    "title": "Ep. #47: Chad Boblett (video)",
+    "outlet": "The Freight Pod (YouTube)",
+    "type": "video",
+    "date": "2024-12-23",
+    "url": "https://www.youtube.com/watch?v=2qVlNEbIxNc",
+    "summary": "Video version of The Freight Pod episode 47."
+  },
+  {
+    "title": "MATS 2025 Pro Talks: Going the Extra Mile. Getting your Authority and Working with Brokers",
+    "outlet": "Mid-America Trucking Show (archived schedule)",
+    "type": "talk",
+    "date": "2025-03-27",
+    "url": "https://web.archive.org/web/20250325/https://truckingshow.com/education/",
+    "summary": "Archived MATS 2025 Pro Talks schedule: Boblett's RPM Masters session, Thu. Mar. 27, 2025, 1-2 PM, East Hall ProTalks Stage."
+  },
+  {
+    "title": "We're back at MATS with a Pro-Talk! (LoadPay MATS 2026)",
+    "outlet": "LoadPay by Triumph (LinkedIn)",
+    "type": "post",
+    "date": "2026-02-23",
+    "url": "https://www.linkedin.com/posts/loadpay%2Ecom_were-back-at-mats-with-a-pro-talk-join-activity-7431742587964702720-6KtP",
+    "summary": "LoadPay reshare of the MATS 2026 Carrier Success session with David Viehler, Boblett and Sammy Lloyd."
+  },
+  {
+    "title": "Show Update: How Highway Drives Revenue, Trust, and Growth for Carriers (MATS 2026)",
+    "outlet": "Mid-America Trucking Show (LinkedIn)",
+    "type": "post",
+    "date": "2026-03-02",
+    "url": "https://www.linkedin.com/posts/midamericatruckingshow_mats2026-matsexperience-activity-7434308299165962240-L-PR",
+    "summary": "MATS announcement of a 2026 session with Highway's John Tozer, Boblett and Khalid Ziadat."
+  },
+  {
+    "title": "Volatility. Freight cycles. AI. (Triumph MATS 2026 session promo)",
+    "outlet": "Triumph for Carriers (LinkedIn)",
+    "type": "post",
+    "date": "2026-03-16",
+    "url": "https://www.linkedin.com/posts/triumphforcarriers_mats2026-carriersuccess-activity-7439364917771620354-9Prj",
+    "summary": "Triumph promotion of its MATS 2026 carrier-success session featuring Boblett."
+  },
+  {
+    "title": "Carrier Success: Technology meets lessons from the road",
+    "outlet": "MATS Pro Talks / Triumph (YouTube)",
+    "type": "talk",
+    "date": "2026-04-03",
+    "url": "https://www.youtube.com/watch?v=flBV0onG2SY",
+    "summary": "MATS 2026 Triumph/LoadPay session with LoadPay President David Viehler, Boblett and Sammy Lloyd."
+  },
+  {
+    "title": "Rate Per Mile Masters: How to Name Your Price in the 2026 Market Flip",
+    "outlet": "MATS Pro Talks (YouTube)",
+    "type": "talk",
+    "date": "2026-04-03",
+    "url": "https://www.youtube.com/watch?v=RWZnakbELOw",
+    "summary": "MATS 2026 Rate Per Mile Masters session on advanced spot-market negotiation for owner-operators."
+  },
+  {
+    "title": "The Weigh-In: Owner-Operator Chad Boblett on Managing a Business",
+    "outlet": "Uber Freight Blog",
+    "type": "article",
+    "date": "2018-12-03",
+    "url": "https://www.uber.com/us/en/blog/the-weigh-in-owner-operator-chad-boblett-on-managing-a-business/",
+    "summary": "Uber Freight Q&A with Boblett on managing an owner-operator business."
+  },
+  {
+    "title": "Chad Boblett - Speaker Bio",
+    "outlet": "FreightWaves Events",
+    "type": "talk",
+    "date": null,
+    "url": "https://live.freightwaves.com/event-speakers/chad-boblett",
+    "summary": "FreightWaves events speaker page for Boblett."
+  },
+  {
+    "title": "Alert for Carriers: Broker Failures Looming - Protect Yourself",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": null,
+    "url": "https://www.linkedin.com/posts/chadboblett_alert-for-carriers-broker-failures-looming-activity-7391135623836971008-w4o1",
+    "summary": "Boblett's LinkedIn post warning carriers about cash-flow risk from broker failures."
+  },
+  {
+    "title": "This is why Highway.com is so vital to the carriers that are doing things the right way",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": null,
+    "url": "https://www.linkedin.com/posts/chadboblett_this-is-why-highwaycom-is-so-vital-to-the-activity-7396185956539858944-FI0p",
+    "summary": "Boblett's LinkedIn post on why Highway matters to legitimate carriers."
+  },
+  {
+    "title": "MATS education schedule listing Chad Boblett",
+    "outlet": "Mid-America Trucking Show",
+    "type": "talk",
+    "date": null,
+    "url": "https://truckingshow.com/education/",
+    "summary": "MATS education page listing Boblett as a session speaker (Founder, Rate Per Mile Masters)."
+  },
+  {
+    "title": "Andrew Silver announces The Freight Pod episode with Chad Boblett",
+    "outlet": "LinkedIn (Andrew Silver)",
+    "type": "post",
+    "date": null,
+    "url": "https://www.linkedin.com/posts/andrew-silver-4001a04a_mats2025-activity-7277003159665852416-zRtk",
+    "summary": "Host's LinkedIn post introducing Boblett as The Freight Pod's first driver guest."
+  },
+  {
+    "title": "Join us at MATS for How Highway Drives Revenue, Trust, and Growth for Carriers",
+    "outlet": "Highway (LinkedIn)",
+    "type": "post",
+    "date": null,
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7438207461452423168",
+    "summary": "Highway's promo for its MATS 2026 Pro Talks panel with Boblett."
+  },
+  {
+    "title": "Chad Boblett - Guest author page",
+    "outlet": "Motive",
+    "type": "article",
+    "date": null,
+    "url": "https://gomotive.com/blog/author/chad-boblett/",
+    "summary": "Motive's guest-author page for Boblett."
+  },
+  {
+    "title": "'100 percent OK' to bring up detention before you get off the phone",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2018-02-13",
+    "url": "https://www.overdriveonline.com/channel-19/article/14893859/100-percent-ok-to-bring-up-detention-before-you-get-off-the-phone",
+    "summary": "Todd Dills quotes Boblett on negotiating detention pay up front now that ELDs are in play."
+  },
+  {
+    "title": "Highway robbery: Ask the tough questions during negotiations to root out the crooks",
+    "outlet": "Overdrive",
+    "type": "article",
+    "date": "2018-03-07",
+    "url": "https://www.overdriveonline.com/business/article/14893969/highway-robbery-ask-the-tough-questions-during-negotiations-to-root-out-the-crooks",
+    "summary": "Boblett's advice on spotting dishonest brokers: ask more questions and watch days-to-pay."
+  },
+  {
+    "title": "Obtaining your authority does not automatically make you a trucking company",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": "2025-04-21",
+    "url": "https://www.linkedin.com/posts/chadboblett_obtaining-your-authority-does-not-automatically-activity-7320069337648664576-vvAw",
+    "summary": "Chad on what separates a real trucking company from a job with authority."
+  },
+  {
+    "title": "AI's Impact on the Spot Market Carriers: Boosting Efficiency and Earnings",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": "2025-05-20",
+    "url": "https://www.linkedin.com/posts/chadboblett_ais-impact-on-the-spot-market-carriers-activity-7330668295534092289-eVIo",
+    "summary": "Chad on how AI lets spot-market carriers work more efficiently and keep more of each load."
+  },
+  {
+    "title": "I missed the first $12 Million. I'm not missing the next one.",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": "2026-01-19",
+    "url": "https://www.linkedin.com/posts/chadboblett_i-missed-the-first-12-million-im-not-missing-activity-7418806135891202048-hGc7",
+    "summary": "Chad looks back on 15 years since starting his trucking company with $50,000."
+  },
+  {
+    "title": "Research brokers",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-08-15",
+    "url": "https://boblettbrothers.blogspot.com/2017/08/research-brokers.html",
+    "summary": "Screenshot tip linking Overdrive's guide on researching broker histories before taking a load."
+  },
+  {
+    "title": "Snow chain requirements",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-08-15",
+    "url": "https://boblettbrothers.blogspot.com/2017/08/snow-chain-requirements.html",
+    "summary": "We are getting into that part of the year where the north west states start having some great paying out bound loads, and we are only a few more weeks away…"
+  },
+  {
+    "title": "Are you ready to go Pro",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-08-07",
+    "url": "https://boblettbrothers.blogspot.com/2017/08/are-you-ready-to-go-pro.html",
+    "summary": "DAT Rate View is loaded with a lot of compelling information that has been a must for the larger fleets and brokers but more information than what most…"
+  },
+  {
+    "title": "How to lower your factor fee",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-07-07",
+    "url": "https://boblettbrothers.blogspot.com/2017/07/how-to-lower-your-factor-fee.html",
+    "summary": "The easiest way to lower the amount you pay for factoring is to not factor all your loads."
+  },
+  {
+    "title": "Why you should and should not use a factoring service",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-06-27",
+    "url": "https://boblettbrothers.blogspot.com/2017/06/factoring-service.html",
+    "summary": "Why you should and should not use a factoring service Do you have the means to receive a paper check in the mail and cash the check without interfering with…"
+  },
+  {
+    "title": "My other blog articles",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-05-20",
+    "url": "https://boblettbrothers.blogspot.com/2017/05/blog-post.html",
+    "summary": "Roundup of Chad's DAT, Overdrive, Trucklogics and other columns and the 3 O'Clock Hustle video."
+  },
+  {
+    "title": "Uber and Brokers",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-04-28",
+    "url": "https://boblettbrothers.blogspot.com/2017/04/uber-and-brokers.html",
+    "summary": "Finally, a broker that is keeping it simple and offering the service for FREE hats off to you the new broker on the block \"Uber Freight\"."
+  },
+  {
+    "title": "Safety Info",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-04-24",
+    "url": "https://boblettbrothers.blogspot.com/2017/04/safety-info.html",
+    "summary": "The Commercial Vehicle Safety Alliance announced this year’s 30th annual International Roadcheck will take place from Tuesday, June 6th through Thursday, June…"
+  },
+  {
+    "title": "What happened here",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-04-20",
+    "url": "https://boblettbrothers.blogspot.com/2017/04/what-happened-here.html",
+    "summary": "1. This is what self-driving trucks will soon look like. 2. Maybe autonomous trucks would know to stop. 3. Texting and not a care in the world. 4. Why stop…"
+  },
+  {
+    "title": "Ghost Loads",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-04-14",
+    "url": "https://boblettbrothers.blogspot.com/2017/04/ghost-loads.html",
+    "summary": "About 4 years ago I took an excellent load training class mostly designed for those wanting to become a broker."
+  },
+  {
+    "title": "Posting trucks hack",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-03-28",
+    "url": "https://boblettbrothers.blogspot.com/2017/03/posting-trucks-hack.html",
+    "summary": "Leaving destination blank is keeping brokers from seeing your posted truck."
+  },
+  {
+    "title": "Easiest direct shippers",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-03-18",
+    "url": "https://boblettbrothers.blogspot.com/2017/03/easiest-direct-shippers.html",
+    "summary": "This is the easiest way to get your own customers without using a broker."
+  },
+  {
+    "title": "Setting up a dumbbell part 1",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-03-15",
+    "url": "https://boblettbrothers.blogspot.com/2017/03/setting-up-dumbbell-part-1.html",
+    "summary": "Working a dumbbell is the first advice I give to any new carrier."
+  },
+  {
+    "title": "From the broker",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-03-09",
+    "url": "https://boblettbrothers.blogspot.com/2017/03/from-broker.html",
+    "summary": "The broker says \"DROPS at receiver take an estimated 4-6 hrs."
+  },
+  {
+    "title": "Deck trailers",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-03-08",
+    "url": "https://boblettbrothers.blogspot.com/2017/03/deck-trailers.html",
+    "summary": "Going into March - The flatbed load-to-truck ratio increased for the fifth week in a row to 34.6 loads per truck nationally."
+  },
+  {
+    "title": "Setup packages for brokers",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-02-21",
+    "url": "https://boblettbrothers.blogspot.com/2017/02/broker-setup-packages.html",
+    "summary": "If you have never worked with the brokerage company that you want to do a load for then, you have to fill out a setup package for the first time, and then…"
+  },
+  {
+    "title": "40 hours is all you get",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-02-04",
+    "url": "https://boblettbrothers.blogspot.com/2017/02/so-how-much-would-you-get-done-as-owner.html",
+    "summary": "So how much would you get done as an owner operator if all you work every week was 40 hours?"
+  },
+  {
+    "title": "Win every load",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-01-24",
+    "url": "https://boblettbrothers.blogspot.com/2017/01/win-every-load.html",
+    "summary": "Create Confidence Talk with confidence Have an answer to every question you are asked."
+  },
+  {
+    "title": "Don't blame the broker",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-01-18",
+    "url": "https://boblettbrothers.blogspot.com/2017/01/dont-blame-broker.html",
+    "summary": "If you see a broker posting cheap rates on a load board, that just means that the broker practice is in finding uneducated carriers."
+  },
+  {
+    "title": "Yes get your authority",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-01-16",
+    "url": "https://boblettbrothers.blogspot.com/2017/01/yes-get-your-authority.html",
+    "summary": "Should you get your authority When I got started 6 years ago, as an owner operator the first company, I looked at was Landstar."
+  },
+  {
+    "title": "My broker",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-01-07",
+    "url": "https://boblettbrothers.blogspot.com/2017/01/my-broker.html",
+    "summary": "Win-win what? Overused with little meaning \"negotiating should be a win-win outcome.\" Isn't all agreed upon loads a win-win? Have you ever done a load for…"
+  },
+  {
+    "title": "Truck Freight in 2017",
+    "outlet": "Boblett Brothers (blog)",
+    "type": "post",
+    "date": "2017-01-05",
+    "url": "https://boblettbrothers.blogspot.com/2017/01/truck-freight-in-2017-2017-outlook.html",
+    "summary": "Truck Freight in 2017 1. E-commerce was a major source of spot market freight for what is usually a quiet season. Ordering online is putting a hurt on the…"
+  },
+  {
+    "title": "Owner-operators: a heads-up that matters if your business email is how you get loads",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": "2026-11-05",
+    "url": "https://www.linkedin.com/posts/chadboblett_owner-operators-a-heads-up-that-matters-activity-7524117457318395905-O5gM",
+    "summary": "Chad on protecting carrier email from account takeovers and related Highway fraud tools."
+  },
+  {
+    "title": "Deadhead miles come out of your pocket",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": "2026-11-04",
+    "url": "https://www.linkedin.com/posts/chadboblett_deadhead-miles-come-out-of-your-pocket-count-activity-7523876382339403776-TV40",
+    "summary": "Tip: count deadhead when figuring rate per mile or the load is not paying what you think."
+  },
+  {
+    "title": "A broker's first rate is an offer, not a final answer",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": "2026-11-04",
+    "url": "https://www.linkedin.com/posts/chadboblett_a-brokers-first-rate-is-an-offer-not-a-activity-7523859881326702592-TeGD",
+    "summary": "Counter with your numbers; the worst a broker can say is no."
+  },
+  {
+    "title": "Your truck is a business, so run it like one",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": "2026-11-03",
+    "url": "https://www.linkedin.com/posts/chadboblett_your-truck-is-a-business-so-run-it-like-activity-7523441195725934592-3Q6v",
+    "summary": "Know your numbers every week, not just at tax time."
+  },
+  {
+    "title": "Most bad rates get booked in the first thirty seconds of the call",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": "2026-11-03",
+    "url": "https://www.linkedin.com/posts/chadboblett_most-bad-rates-get-booked-in-the-first-thirty-activity-7523410877828640770-3hYe",
+    "summary": "Slow down, ask about lane, weight and wait time, then give your number."
+  },
+  {
+    "title": "A cheap load out can cost you more than an empty mile",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": "2026-11-03",
+    "url": "https://www.linkedin.com/posts/chadboblett_a-cheap-load-out-can-cost-you-more-than-an-activity-7523390848936411136-FPRl",
+    "summary": "Look at where the load drops you before you say yes; the rate is only half the deal."
+  },
+  {
+    "title": "Every load you haul under your cost per mile is a load you paid to drive",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": "2026-11-03",
+    "url": "https://www.linkedin.com/posts/chadboblett_every-load-you-haul-under-your-cost-per-mile-activity-7523367904839368705-Ilow",
+    "summary": "Know your cost per mile cold before you pick up the phone."
+  },
+  {
+    "title": "Peak season is putting a month of freight into about two and a half weeks",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": "2026-11-03",
+    "url": "https://www.linkedin.com/posts/chadboblett_peak-season-is-putting-a-month-of-freight-activity-7523337178089803776-g95v",
+    "summary": "Carriers: know your floor rate; brokers: plan for capacity to get tight."
+  },
+  {
+    "title": "Brokers: when a carrier asks for more than you posted, what do you do?",
+    "outlet": "LinkedIn (Chad Boblett)",
+    "type": "post",
+    "date": "2026-10-28",
+    "url": "https://www.linkedin.com/posts/chadboblett_brokers-when-a-carrier-asks-for-more-than-activity-7521325818799722496-b1xg",
+    "summary": "Open question to brokers and carriers on negotiating above the posted rate."
+  },
+  {
+    "title": "Owner-operators: protect your business email from freight theft",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-11-05",
+    "url": "https://x.com/ChadBoblett/status/2118351958264205708",
+    "summary": "Highway-linked tips on email takeovers, MFA, and certified insurance/ELD tools for carriers."
+  },
+  {
+    "title": "Peak season: know your floor rate before the calls start",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-11-03",
+    "url": "https://x.com/ChadBoblett/status/2117571611662688431",
+    "summary": "Peak season is packing a month of freight into about two and a half weeks."
+  },
+  {
+    "title": "Every load under your cost per mile is a load you paid to drive",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-11-03",
+    "url": "https://x.com/ChadBoblett/status/2117602372142985477",
+    "summary": "Know your cost per mile before you call; the broker already knows his margin."
+  },
+  {
+    "title": "A cheap load out can park you in a dead market",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-11-03",
+    "url": "https://x.com/ChadBoblett/status/2117625316185460917",
+    "summary": "Look at where the load drops you before you say yes."
+  },
+  {
+    "title": "Most bad rates get booked in the first thirty seconds",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-11-03",
+    "url": "https://x.com/ChadBoblett/status/2117645283605549201",
+    "summary": "Ask about lane, weight and wait time, then give your number."
+  },
+  {
+    "title": "Your truck is a business, so run it like one",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-11-03",
+    "url": "https://x.com/ChadBoblett/status/2117675297277350282",
+    "summary": "Know your numbers every week, not just at tax time."
+  },
+  {
+    "title": "A broker's first rate is an offer, not a final answer",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-11-04",
+    "url": "https://x.com/ChadBoblett/status/2118094029246066915",
+    "summary": "Counter with your numbers; the worst they can say is no."
+  },
+  {
+    "title": "Deadhead miles come out of your pocket",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-11-04",
+    "url": "https://x.com/ChadBoblett/status/2118110496511623528",
+    "summary": "Count deadhead when you figure rate per mile."
+  },
+  {
+    "title": "DAT: van linehaul rates 33% higher than a year ago",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-10-28",
+    "url": "https://x.com/ChadBoblett/status/2115259991896781126",
+    "summary": "Truck posts down 20–26%; asks owner-ops what floor they are holding."
+  },
+  {
+    "title": "Brokers and carriers: what happens when you ask for more?",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-10-28",
+    "url": "https://x.com/ChadBoblett/status/2115349258555822083",
+    "summary": "Open question on negotiating above the posted rate."
+  },
+  {
+    "title": "Intro: Marine vet and founder of Rate Per Mile Masters",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-10-25",
+    "url": "https://x.com/ChadBoblett/status/2114237086509506891",
+    "summary": "Straight talk on rates, freight and investing."
+  },
+  {
+    "title": "The standoff is real: spot loads vs trucks",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-09-21",
+    "url": "https://x.com/ChadBoblett/status/2102177616635584893",
+    "summary": "Spot load posts +17.7%, truck posts +13.8%, van rates flat—who blinks first."
+  },
+  {
+    "title": "Emad Mostaque's 8 predictions and what they mean for trucking",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-08-18",
+    "url": "https://x.com/ChadBoblett/status/2089744626831802418",
+    "summary": "Long-form on AI, desk work, robots and owner-operator survival."
+  },
+  {
+    "title": "Landstar purged about 35,000 carriers",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-08-11",
+    "url": "https://x.com/ChadBoblett/status/2086969149180264815",
+    "summary": "Fraud, cargo theft and Montgomery liability driving a capacity purge."
+  },
+  {
+    "title": "Electric semis vs data-center power demand",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-08-05",
+    "url": "https://x.com/ChadBoblett/status/2085078958865895784",
+    "summary": "Why electricity access may become as important as diesel for owner-ops."
+  },
+  {
+    "title": "CH Robinson verdict and broker vicarious liability",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-07-30",
+    "url": "https://x.com/ChadBoblett/status/2082630233140629526",
+    "summary": "Borrowed-employee finding and what it means for clean carriers."
+  },
+  {
+    "title": "How bad would fraud be without Highway",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-02-04",
+    "url": "https://x.com/ChadBoblett/status/2018863970824671681",
+    "summary": "Short take on Highway's role stopping carrier identity fraud."
+  },
+  {
+    "title": "Brokers lose their minds as carriers negotiate higher rates",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-01-31",
+    "url": "https://x.com/ChadBoblett/status/2017719112139522121",
+    "summary": "Spot-market negotiating screenshot commentary."
+  },
+  {
+    "title": "I missed the first $12 Million. I'm not missing the next one.",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-01-19",
+    "url": "https://x.com/ChadBoblett/status/2013040188776214988",
+    "summary": "Tesla investment math vs building a trucking company from $50k."
+  },
+  {
+    "title": "Labor productivity up, jobs flat: AI and trucking",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-01-10",
+    "url": "https://x.com/ChadBoblett/status/2010098510020878648",
+    "summary": "On AI matching, broker roles and owner-op leverage."
+  },
+  {
+    "title": "Hustle is good until it is the carrier's turn",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2026-01-07",
+    "url": "https://x.com/ChadBoblett/status/2008938855010062380",
+    "summary": "A broker can only negotiate so low; carriers have no ceiling."
+  },
+  {
+    "title": "Autonomous trucks and the next generation of drivers",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-12-19",
+    "url": "https://x.com/ChadBoblett/status/2001834690865426563",
+    "summary": "In 10 years you may not hire a driver without a self-driving truck."
+  },
+  {
+    "title": "Trump's marijuana reclassification: what it means for truck drivers",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-12-18",
+    "url": "https://x.com/ChadBoblett/status/2001733744273850539",
+    "summary": "Pros/cons for CDL holders under Schedule III and DOT rules."
+  },
+  {
+    "title": "The Sixth Wave Is About to Rewire Trucking",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-12-18",
+    "url": "https://x.com/ChadBoblett/status/2001723808399454334",
+    "summary": "X Article on the next technology wave separating winners in trucking."
+  },
+  {
+    "title": "Contract rates falling while spot rises: death-cross watch",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-12-15",
+    "url": "https://x.com/ChadBoblett/status/2000581586081698215",
+    "summary": "Spot vs contract dynamics and shipper pressure on bids."
+  },
+  {
+    "title": "Non-domiciled CDL purge has begun",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-11-24",
+    "url": "https://x.com/ChadBoblett/status/1992777355832529260",
+    "summary": "Video commentary on removing non-domiciled CDL drivers."
+  },
+  {
+    "title": "CDL crackdown bills and the spot market",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-11-23",
+    "url": "https://x.com/ChadBoblett/status/1992641774234251641",
+    "summary": "HR5863/HR5688 and why clean carriers stand to gain."
+  },
+  {
+    "title": "Demand map lighting up red into Thanksgiving",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-11-23",
+    "url": "https://x.com/ChadBoblett/status/1992642044947472389",
+    "summary": "Unusual multi-state demand spike; brokers writing blank checks."
+  },
+  {
+    "title": "Why Highway.com is vital for carriers doing it right",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-11-17",
+    "url": "https://x.com/ChadBoblett/status/1990420496463090120",
+    "summary": "Video post on Highway protecting compliant carriers."
+  },
+  {
+    "title": "Shutdown payments and a short-term spot rate spike",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-11-09",
+    "url": "https://x.com/ChadBoblett/status/1987618677747818796",
+    "summary": "How sudden bank deposits can pull drivers off the road briefly."
+  },
+  {
+    "title": "50-year mortgages: the freight angle",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-11-08",
+    "url": "https://x.com/ChadBoblett/status/1987302081678459045",
+    "summary": "If longer mortgages pass, expect more flatbed homebuilding freight."
+  },
+  {
+    "title": "OOIDA lifetime membership",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-11-08",
+    "url": "https://x.com/ChadBoblett/status/1987196792027459691",
+    "summary": "On drug consortium, onboarding help and $1,000 toward his first new truck."
+  },
+  {
+    "title": "Alert for carriers: broker failures looming",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-11-03",
+    "url": "https://x.com/ChadBoblett/status/1985370207313883298",
+    "summary": "FreightWaves perfect-storm warning and how carriers should protect themselves."
+  },
+  {
+    "title": "Off-duty in the bunk is controlled stand-by",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-06-29",
+    "url": "https://x.com/ChadBoblett/status/1939401283372200328",
+    "summary": "Long-form arguing paid stand-by for sleeper and restart hours."
+  },
+  {
+    "title": "Can you speak English? Indiana tow and broker fallout",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-06-27",
+    "url": "https://x.com/ChadBoblett/status/1938721227813855734",
+    "summary": "Commentary on English-language enforcement and stranded loads."
+  },
+  {
+    "title": "AI's impact on spot-market carriers and brokers",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-05-20",
+    "url": "https://x.com/ChadBoblett/status/1924901235087278509",
+    "summary": "Long-form on disintermediation, route tools and broker adaptation."
+  },
+  {
+    "title": "Rates rising into Memorial Day after Blitz week",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-05-19",
+    "url": "https://x.com/ChadBoblett/status/1924295736461553876",
+    "summary": "Double boom warning and accessorial games from brokers."
+  },
+  {
+    "title": "Highway Secure Rate Confirmation Delivery",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-04-18",
+    "url": "https://x.com/ChadBoblett/status/1913198542157398241",
+    "summary": "Auth-gated rate cons to stop email cargo-theft scams."
+  },
+  {
+    "title": "Oil crash is not your funeral",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-04-06",
+    "url": "https://x.com/ChadBoblett/status/1908945833439232313",
+    "summary": "Diesel down; hold rates and fight in the spot market."
+  },
+  {
+    "title": "Highway as 2024's biggest freight-tech leap",
+    "outlet": "X (@ChadBoblett)",
+    "type": "post",
+    "date": "2025-01-02",
+    "url": "https://x.com/ChadBoblett/status/1874828212053663952",
+    "summary": "Getting Highway-brokered freight signals you cleared a high bar."
+  }
 ]
