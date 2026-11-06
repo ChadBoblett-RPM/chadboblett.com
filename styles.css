@@ -121,3 +121,6 @@ nav a{display:inline-block;min-height:44px}
 @media (max-width:860px){nav a{font-size:1.15rem;padding:12px 0}}
 @media (max-width:420px){body{font-size:18px}.wrap{padding:0 16px}.stats strong{font-size:1.6rem}.cta-row .btn{font-size:1.05rem}}
 @media (forced-colors:active){.btn,.filter{border:2px solid ButtonText}}
+
+.tesla-ref{margin:18px 0 8px;color:#dfe6f0}
+.tesla-ref a{color:var(--gold)}
