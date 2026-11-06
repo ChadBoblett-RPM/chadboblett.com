@@ -164,13 +164,18 @@
   <div class="wrap">
     <p class="kicker">As seen in</p>
     <h2 id="media-h">Media &amp; Press</h2>
-    <p class="lead">Articles, podcasts, videos, talks and posts featuring Chad Boblett and Rate Per Mile Masters.</p>
+    <p class="lead">Articles, podcasts, videos, talks, posts, photos and public mentions featuring Chad Boblett and Rate Per Mile Masters.</p>
     <p class="outlets">Business Insider · Marketplace · Overdrive · FreightWaves · Transport Topics · DAT · Motive · Triumph · Uber Freight · The Freight Pod · MATS</p>
     <div class="quotes">
       <blockquote><p>"Arguably the face of trucking for the driver community."</p><cite>Andrew Silver, <a href="https://castro.fm/episode/3ZmZCo">The Freight Pod</a>, 2024</cite></blockquote>
       <blockquote><p>"The largest professional online forum in the U.S. on rates and logistics in the freight industry."</p><cite><a href="https://www.freightwaves.com/news/2018-1-20-rpm-masters-how-a-facebook-community-is-changing-the-game-for-truckers">FreightWaves</a>, 2018</cite></blockquote>
       <blockquote><p>"The money is there. You've just got to ask for it and know where to look for it."</p><cite>Chad in <a href="https://www.overdriveonline.com/channel-19/article/14887274/chad-boblett-trucks-up-from-nothing">Overdrive</a>, 2014</cite></blockquote>
     </div>
+    <div class="media-toolbar">
+    <label class="media-search">
+      <span class="sr-only">Search media</span>
+      <input type="search" id="media-search" placeholder="Search titles, outlets or topics" autocomplete="off">
+    </label>
     <div class="filters" role="group" aria-label="Filter media by type" hidden>
       <button type="button" class="filter" data-type="all" aria-pressed="true">All</button>
       <button type="button" class="filter" data-type="article" aria-pressed="false">Articles</button>
@@ -178,6 +183,9 @@
       <button type="button" class="filter" data-type="video" aria-pressed="false">Videos</button>
       <button type="button" class="filter" data-type="talk" aria-pressed="false">Talks</button>
       <button type="button" class="filter" data-type="post" aria-pressed="false">Posts</button>
+      <button type="button" class="filter" data-type="photo" aria-pressed="false">Photos</button>
+      <button type="button" class="filter" data-type="mention" aria-pressed="false">Mentions</button>
+    </div>
     </div>
     <div id="media-list" aria-live="polite"></div>
     <button type="button" id="media-more" class="btn btn-outline" hidden>Show all media</button>
