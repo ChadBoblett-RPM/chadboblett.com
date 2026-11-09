@@ -145,6 +145,15 @@ nav a{display:inline-block;min-height:44px}
 
 .tesla-ref{margin:18px 0 8px;color:#dfe6f0}
 .tesla-ref a{color:var(--gold)}
+.history-page h1{color:var(--navy);max-width:18ch}
+.history-logo{margin:0 0 1.25rem}
+.history-logo img{width:min(100%,205px);height:auto;display:block}
+.history-layout{display:grid;grid-template-columns:minmax(0,370px) minmax(0,1fr);gap:40px;align-items:start}
+.history-layout figure{margin:0}
+.history-photo{width:100%;max-width:370px;height:auto;display:block;border-radius:14px}
+@media (max-width:860px){
+ .history-layout{grid-template-columns:1fr;gap:22px}
+}
 @media (max-width:860px){
  .eyebrow{font-size:1rem;letter-spacing:.06em}
  .quotes cite{font-size:1rem}
@@ -155,4 +164,5 @@ nav a{display:inline-block;min-height:44px}
   display:inline-block;min-height:44px;padding:12px 6px;box-sizing:border-box
  }
  .media-items h4 a{display:block;padding:12px 0}
+ .history-link{display:inline-block;min-height:44px;padding:12px 0}
 }
