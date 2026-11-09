@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Boblett Brothers | Chad Boblett</title>
+<meta name="description" content="Boblett Brothers LLC was Chad Boblett's Lexington trucking company, founded in 2011. It no longer hauls freight. This page is a short history.">
+<meta name="author" content="Chad Boblett">
+<meta name="theme-color" content="#0b1f3a">
+<link rel="canonical" href="https://chadboblett.com/boblett-brothers/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Boblett Brothers | Chad Boblett">
+<meta property="og:description" content="Boblett Brothers LLC was Chad Boblett's Lexington trucking company, founded in 2011. It no longer hauls freight. This page is a short history.">
+<meta property="og:url" content="https://chadboblett.com/boblett-brothers/">
+<meta property="og:image" content="https://chadboblett.com/assets/chad-marine.jpg">
+<meta property="og:image:alt" content="Chad Boblett in a U.S. Marine Corps helmet and uniform">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to main content</a>
+<header class="site-header">
+  <div class="wrap nav">
+    <a class="brand" href="/" aria-label="Chad Boblett, home">Chad Boblett</a>
+    <button type="button" class="menu-btn" aria-expanded="false" aria-controls="menu">Menu</button>
+    <nav id="menu" aria-label="Main">
+      <ul>
+        <li><a href="/#join">RPM Masters</a></li>
+        <li><a href="/#partners">Partners</a></li>
+        <li><a href="/#media">Media</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a class="nav-cta" href="/#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<main id="main" class="band history-page">
+  <div class="wrap">
+    <p class="history-logo"><img src="/assets/boblett-brothers-logo.png" alt="Boblett Brothers LLC logo" width="205" height="60"></p>
+    <p class="kicker">History</p>
+    <h1>Boblett Brothers</h1>
+    <div class="history-layout">
+      <figure>
+        <picture>
+          <source type="image/webp" srcset="/assets/chad-marine.webp">
+          <img class="history-photo" src="/assets/chad-marine.jpg" alt="Chad Boblett in a U.S. Marine Corps helmet and uniform" width="370" height="229">
+        </picture>
+      </figure>
+      <div>
+        <p class="lead">Boblett Brothers no longer hauls freight. This page is only a history of the company.</p>
+        <p>Chad Boblett founded Boblett Brothers LLC in 2011 in Lexington, Kentucky. He started the company after ten years in the Marine Corps, including a tour in Iraq, and a few years as a professional driver. He bought a used truck on credit cards.</p>
+        <p>He named the company Boblett Brothers in honor of his fellow truckers. The company ran van loads and power-only trailer repositioning for more than 100 shippers and freight brokers. It was where Rate Per Mile Masters started.</p>
+        <p><a class="btn btn-outline" href="/#about">Back to About Chad</a></p>
+      </div>
+    </div>
+  </div>
+</main>
+<footer class="site-footer" aria-label="Site footer">
+  <div class="wrap">
+    <p><a href="/">Chad Boblett</a> · <a href="/boblett-brothers/">Boblett Brothers history</a></p>
+    <p>© 2026 Chad Boblett · Rate Per Mile Masters · Boblett Brothers LLC</p>
+  </div>
+</footer>
+<script>
+const b=document.querySelector('.menu-btn'),m=document.getElementById('menu');
+b.addEventListener('click',()=>{const o=b.getAttribute('aria-expanded')==='true';b.setAttribute('aria-expanded',!o);m.querySelector('ul').classList.toggle('open',!o);});
+m.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{m.querySelector('ul').classList.remove('open');b.setAttribute('aria-expanded','false');}));
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&b.getAttribute('aria-expanded')==='true'){m.querySelector('ul').classList.remove('open');b.setAttribute('aria-expanded','false');b.focus();}});
+</script>
+</body>
+</html>
