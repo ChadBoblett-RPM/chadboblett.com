@@ -167,6 +167,32 @@ nav a{display:inline-block;min-height:44px}
  .rpm-links a{display:flex}
  .rpm-join{width:100%}
 }
+.sponsor-more{display:inline-flex;align-items:center;min-height:44px;margin-top:16px;font-weight:800;font-size:1.125rem}
+.sponsor-intro{padding:36px 0 0}
+.sponsor-intro p{max-width:62ch}
+.sponsor-intro + #dat{padding-top:28px}
+.sponsor-jumps{list-style:none;padding:0;margin:20px 0 0;display:flex;flex-wrap:wrap;gap:8px 22px}
+.sponsor-jumps a{display:inline-flex;align-items:center;justify-content:flex-start;min-height:44px;min-width:44px;padding:8px 4px;box-sizing:border-box;font-weight:800;font-size:1.125rem;color:var(--gold)}
+.sponsor-links{list-style:none;padding:0;margin:0}
+.sponsor-links li{margin:0;border-top:1px solid var(--line)}
+.sponsor-links a{display:block;min-height:44px;padding:12px 0;font-weight:800;font-size:1.125rem;line-height:1.4}
+body.sponsor-page .kicker,
+body.sponsor-page .partner-cat,
+body.sponsor-page .eyebrow{font-size:1.125rem;letter-spacing:.06em}
+body.sponsor-page .disclosure{font-size:1.125rem}
+body.sponsor-page .site-footer{font-size:1.125rem}
+body.sponsor-page .sponsor-body p,
+body.sponsor-page .sponsor-body li{font-size:1.25rem}
+body.sponsor-page .sponsor-body p a,
+body.sponsor-page .hero-copy p a{display:inline-flex;align-items:center;min-height:44px;font-weight:800}
+body.sponsor-page .hero-copy p a{color:#fff}
+body.sponsor-page nav a{font-size:1.125rem}
+body.sponsor-page .site-footer a{display:inline-flex;align-items:center;min-height:44px}
+body.sponsor-page .hero-copy p{font-size:1.25rem}
+@media (max-width:860px){
+ .sponsor-jumps{flex-direction:column;align-items:stretch;gap:0}
+ .sponsor-jumps a{width:100%}
+}
 @media (max-width:860px){
  .eyebrow{font-size:1rem;letter-spacing:.06em}
  .quotes cite{font-size:1rem}
