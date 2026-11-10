@@ -193,6 +193,49 @@ body.sponsor-page .hero-copy p{font-size:1.25rem}
  .sponsor-jumps{flex-direction:column;align-items:stretch;gap:0}
  .sponsor-jumps a{width:100%}
 }
+.cta-band .kit-link{color:#fff;display:inline-flex;align-items:center;justify-content:center;min-height:44px;margin-top:8px;font-weight:800;font-size:1.125rem}
+body.media-kit .eyebrow,
+body.media-kit .kicker{font-size:1.125rem;letter-spacing:.06em}
+body.media-kit .hero-copy p,
+body.media-kit .kit-body p,
+body.media-kit .kit-body li{font-size:1.25rem}
+body.media-kit .disclosure{font-size:1.125rem}
+body.media-kit .site-footer{font-size:1.125rem}
+body.media-kit .site-footer a,
+body.media-kit .kit-body p a{display:inline-flex;align-items:center;min-height:44px;font-weight:800}
+body.media-kit .hero-copy p a.btn{color:#fff}
+body.media-kit .btn-secondary{color:var(--navy)}
+body.media-kit nav a{font-size:1.125rem}
+body.media-kit .cta-row .btn{font-size:1.125rem}
+@media (max-width:860px){
+ .cta-band .kit-link{width:100%}
+}
+@media print{
+ @page{size:letter;margin:0.45in}
+ body.media-kit{font-size:11pt;background:#fff;color:#111}
+ body.media-kit .site-header,
+ body.media-kit .skip,
+ body.media-kit .site-footer,
+ body.media-kit .cta-row a[href$=".pdf"]{display:none!important}
+ body.media-kit .hero{background:#0b1f3a;color:#fff;padding:16px 0;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+ body.media-kit .hero-grid{grid-template-columns:1fr 150px;gap:16px;align-items:start}
+ body.media-kit .headshot{max-width:150px;border-width:3px;border-radius:10px;box-shadow:none}
+ body.media-kit .hero h1{font-size:22pt;margin:0 0 .2em}
+ body.media-kit .hero-copy p,
+ body.media-kit .kit-body p,
+ body.media-kit .kit-body li,
+ body.media-kit .lead{font-size:11pt;line-height:1.35}
+ body.media-kit .band{padding:12px 0}
+ body.media-kit .wrap{padding:0}
+ body.media-kit h2{font-size:14pt;margin:0 0 .25em}
+ body.media-kit h3{font-size:12pt;margin:.6em 0 .2em}
+ body.media-kit .sponsor-links a,
+ body.media-kit .kit-body p a,
+ body.media-kit .btn{min-height:0;padding:1px 0;font-size:11pt;font-weight:700}
+ body.media-kit .disclosure{font-size:10pt;padding:8px 10px}
+ body.media-kit .cta-band{padding:12px 0}
+ body.media-kit a{text-decoration:underline}
+}
 @media (max-width:860px){
  .eyebrow{font-size:1rem;letter-spacing:.06em}
  .quotes cite{font-size:1rem}
